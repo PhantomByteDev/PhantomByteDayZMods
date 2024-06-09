@@ -1,0 +1,8 @@
+---------------------------------------------
+Log K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\script_2024-06-01_02-47-00.log started at 01.06. 02:47:00
+
+SCRIPT       : Registered 329 temporary action enum(s), UAN==329
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : [Logout]: New player 7Mdl9HbtK_KruliVdldqBKiBrBw3s5h2u0V-FB93Ahc= with logout time 15
+SCRIPT       : [Logout]: Player 7Mdl9HbtK_KruliVdldqBKiBrBw3s5h2u0V-FB93Ahc= finished

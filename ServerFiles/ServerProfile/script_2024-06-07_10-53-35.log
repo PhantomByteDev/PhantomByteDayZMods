@@ -1,0 +1,8 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\script_2024-06-07_10-53-35.log started at 07.06. 10:53:35
+
+SCRIPT       : Registered 327 temporary action enum(s), UAN==327
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Logout]: New player 7Mdl9HbtK_KruliVdldqBKiBrBw3s5h2u0V-FB93Ahc= with logout time 15

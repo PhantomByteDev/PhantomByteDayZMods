@@ -1,0 +1,481 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe /min "-mod=D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;K:\DayZ\ModBuilds\@PBMilitaryRetextures;" "-config=K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\serverDZ.cfg" "-profiles=K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile" "-doLogs" "-adminlog" "-NoBattlEye" "-newErrorsAreWarnings=1"
+=====================================================================
+Exe timestamp: 2024/06/01 02:04:12
+Current time:  2024/06/07 10:15:52
+Version 1.25.158199
+=====================================================================
+
+10:15:52.16 String "STR_server_shutdown" listed twice in "Global"
+10:15:52.37 Localization not present: STR_DATE_FORMAT_SHORT
+10:15:52.37 Localization not present: STR_TIME_FORMAT
+10:15:52.37 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+10:15:52.37 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+10:15:52.37 Localization not present: STR_MP_VALIDERROR
+10:15:52.37 Localization not present: STR_MP_CONNECTION_LOOSING
+10:15:52.37 Localization not present: STR_MSG_MP_NO_PASSWORD
+10:15:52.37 Localization not present: STR_MSG_LAUNCH_GAME
+10:15:52.37 Localization not present: STR_LOAD_INIT
+10:15:52.37 Localization not present: STR_LOAD_WORLD
+10:15:52.37 Localization not present: STR_LOAD_GAME
+10:15:52.37 Localization not present: STR_SAVE_GAME
+10:15:52.37 Localization not present: STR_MP_CONNECT
+10:15:52.37 Localization not present: STR_MP_DISCONNECT
+10:15:52.37 Localization not present: STR_MP_CONNECTING
+10:15:52.37 Localization not present: STR_MP_TIMEOUT
+10:15:52.37 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+10:15:52.37 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+10:15:52.39 Localization not present: STR_DATE_FORMAT_SHORT
+10:15:52.39 Localization not present: STR_TIME_FORMAT
+10:15:52.39 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+10:15:52.39 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+10:15:52.39 Localization not present: STR_MP_VALIDERROR
+10:15:52.39 Localization not present: STR_MP_CONNECTION_LOOSING
+10:15:52.39 Localization not present: STR_MSG_MP_NO_PASSWORD
+10:15:52.39 Localization not present: STR_MSG_LAUNCH_GAME
+10:15:52.39 Localization not present: STR_LOAD_INIT
+10:15:52.39 Localization not present: STR_LOAD_WORLD
+10:15:52.39 Localization not present: STR_LOAD_GAME
+10:15:52.39 Localization not present: STR_SAVE_GAME
+10:15:52.39 Localization not present: STR_MP_CONNECT
+10:15:52.39 Localization not present: STR_MP_DISCONNECT
+10:15:52.39 Localization not present: STR_MP_CONNECTING
+10:15:52.39 Localization not present: STR_MP_TIMEOUT
+10:15:52.39 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+10:15:52.39 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+10:15:52.48 Initializing stats manager.
+10:15:52.50 Stats config disabled.
+10:15:52.455 String "STR_COT_PLAYER_MODULE_RIGHT_PLAYER_QUICK_ACTIONS_BAN" listed twice in "Global"
+10:15:53.318 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+10:15:53.371 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+10:15:53.371 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+10:15:53.371 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+10:15:53.371 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+10:15:53.371 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+10:15:53.371 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+10:15:53.371 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+10:15:53.371 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+10:15:53.517 Updating base class ->Rifle_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1_Base/
+10:15:53.517 Updating base class ->M4A1_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1/
+10:15:53.523 Updating base class Weather->, by DZ\worlds\chernarusplus\world\config.bin/CfgWorlds/CAWorld/Weather/
+10:15:53.523 Updating base class Overcast->, by DZ\worlds\chernarusplus\world\config.bin/CfgWorlds/CAWorld/Weather/Overcast/
+10:15:53.525 Updating base class ->Names, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/
+10:15:53.525 Updating base class ->Settlement_Chernogorsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Chernogorsk/
+10:15:53.525 Updating base class ->Settlement_Novodmitrovsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Novodmitrovsk/
+10:15:53.525 Updating base class ->Settlement_Novoselki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Novoselki/
+10:15:53.525 Updating base class ->Settlement_Dubovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dubovo/
+10:15:53.525 Updating base class ->Settlement_Vysotovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vysotovo/
+10:15:53.525 Updating base class ->Settlement_Zelenogorsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zelenogorsk/
+10:15:53.525 Updating base class ->Settlement_Berezino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Berezino/
+10:15:53.525 Updating base class ->Settlement_Elektrozavodsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Elektrozavodsk/
+10:15:53.525 Updating base class ->Settlement_NovayaPetrovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_NovayaPetrovka/
+10:15:53.525 Updating base class ->Settlement_Gorka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Gorka/
+10:15:53.525 Updating base class ->Settlement_Solnechny, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Solnechny/
+10:15:53.525 Updating base class ->Settlement_StarySobor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_StarySobor/
+10:15:53.525 Updating base class ->Settlement_Vybor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vybor/
+10:15:53.525 Updating base class ->Settlement_Severograd, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Severograd/
+10:15:53.525 Updating base class ->Settlement_Bor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Bor/
+10:15:53.525 Updating base class ->Settlement_Svetloyarsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Svetloyarsk/
+10:15:53.525 Updating base class ->Settlement_Krasnostav, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Krasnostav/
+10:15:53.525 Updating base class ->Settlement_ChernayaPolyana, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_ChernayaPolyana/
+10:15:53.525 Updating base class ->Settlement_Polyana, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Polyana/
+10:15:53.525 Updating base class ->Settlement_Tulga, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Tulga/
+10:15:53.525 Updating base class ->Settlement_Msta, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Msta/
+10:15:53.525 Updating base class ->Settlement_Staroye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Staroye/
+10:15:53.525 Updating base class ->Settlement_Shakhovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Shakhovka/
+10:15:53.525 Updating base class ->Settlement_Dolina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dolina/
+10:15:53.525 Updating base class ->Settlement_Orlovets, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Orlovets/
+10:15:53.525 Updating base class ->Settlement_NovySobor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_NovySobor/
+10:15:53.525 Updating base class ->Settlement_Kabanino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kabanino/
+10:15:53.525 Updating base class ->Settlement_Mogilevka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Mogilevka/
+10:15:53.525 Updating base class ->Settlement_Nadezhdino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Nadezhdino/
+10:15:53.525 Updating base class ->Settlement_Guglovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Guglovo/
+10:15:53.525 Updating base class ->Settlement_Kamyshovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kamyshovo/
+10:15:53.525 Updating base class ->Settlement_Pusta, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pusta/
+10:15:53.525 Updating base class ->Settlement_Dubrovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dubrovka/
+10:15:53.525 Updating base class ->Settlement_VyshnayaDubrovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_VyshnayaDubrovka/
+10:15:53.525 Updating base class ->Settlement_Khelm, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Khelm/
+10:15:53.525 Updating base class ->Settlement_Olsha, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Olsha/
+10:15:53.525 Updating base class ->Settlement_Gvozdno, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Gvozdno/
+10:15:53.525 Updating base class ->Settlement_Grishino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Grishino/
+10:15:53.525 Updating base class ->Settlement_Rogovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Rogovo/
+10:15:53.525 Updating base class ->Settlement_Pogorevka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pogorevka/
+10:15:53.525 Updating base class ->Settlement_Pustoshka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pustoshka/
+10:15:53.525 Updating base class ->Settlement_Kozlovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kozlovka/
+10:15:53.525 Updating base class ->Settlement_Karmanovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Karmanovka/
+10:15:53.525 Updating base class ->Settlement_Balota, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Balota/
+10:15:53.525 Updating base class ->Settlement_Komarovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Komarovo/
+10:15:53.525 Updating base class ->Settlement_Kamenka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kamenka/
+10:15:53.525 Updating base class ->Settlement_Myshkino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Myshkino/
+10:15:53.525 Updating base class ->Settlement_Pavlovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pavlovo/
+10:15:53.525 Updating base class ->Settlement_Lopatino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Lopatino/
+10:15:53.525 Updating base class ->Settlement_Vyshnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vyshnoye/
+10:15:53.525 Updating base class ->Settlement_Prigorodki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Prigorodki/
+10:15:53.525 Updating base class ->Settlement_Drozhino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Drozhino/
+10:15:53.525 Updating base class ->Settlement_Sosnovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Sosnovka/
+10:15:53.525 Updating base class ->Settlement_Nizhneye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Nizhneye/
+10:15:53.525 Updating base class ->Settlement_Pulkovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pulkovo/
+10:15:53.525 Updating base class ->Settlement_Berezhki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Berezhki/
+10:15:53.525 Updating base class ->Settlement_Turovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Turovo/
+10:15:53.525 Updating base class ->Settlement_BelayaPolyana, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_BelayaPolyana/
+10:15:53.525 Updating base class ->Settlement_Dobroye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dobroye/
+10:15:53.525 Updating base class ->Settlement_Nagornoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Nagornoye/
+10:15:53.525 Updating base class ->Settlement_Svergino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Svergino/
+10:15:53.525 Updating base class ->Settlement_Ratnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Ratnoye/
+10:15:53.525 Updating base class ->Settlement_Kamensk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kamensk/
+10:15:53.525 Updating base class ->Settlement_Krasnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Krasnoye/
+10:15:53.525 Updating base class ->Settlement_StaryYar, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_StaryYar/
+10:15:53.525 Updating base class ->Settlement_Polesovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Polesovo/
+10:15:53.525 Updating base class ->Settlement_Tisy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Tisy/
+10:15:53.525 Updating base class ->Settlement_Topolniki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Topolniki/
+10:15:53.525 Updating base class ->Settlement_Zaprudnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zaprudnoye/
+10:15:53.525 Updating base class ->Settlement_Sinystok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Sinystok/
+10:15:53.525 Updating base class ->Settlement_Vavilovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vavilovo/
+10:15:53.525 Updating base class ->Settlement_Kumyrna, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kumyrna/
+10:15:53.525 Updating base class ->Settlement_Kalinovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kalinovka/
+10:15:53.525 Updating base class ->Settlement_Bogatyrka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Bogatyrka/
+10:15:53.525 Updating base class ->Settlement_SvyatoyRomanSkiResort, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_SvyatoyRomanSkiResort/
+10:15:53.525 Updating base class ->Settlement_SKVSChBiathlonArena, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_SKVSChBiathlonArena/
+10:15:53.525 Updating base class ->Settlement_Zvir, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zvir/
+10:15:53.525 Updating base class ->Settlement_Zabolotye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zabolotye/
+10:15:53.525 Updating base class ->Settlement_Galkino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Galkino/
+10:15:53.525 Updating base class ->Camp_Arsenovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Arsenovo/
+10:15:53.525 Updating base class ->Camp_Stroytel, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Stroytel/
+10:15:53.525 Updating base class ->Camp_Romashka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Romashka/
+10:15:53.525 Updating base class ->Camp_Kometa, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Kometa/
+10:15:53.525 Updating base class ->Camp_Druzhba, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Druzhba/
+10:15:53.525 Updating base class ->Camp_Nadezhda, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Nadezhda/
+10:15:53.525 Updating base class ->Camp_YouthPioneer, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_YouthPioneer/
+10:15:53.525 Updating base class ->Camp_ProudChernarus, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_ProudChernarus/
+10:15:53.525 Updating base class ->Camp_Shkolnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Shkolnik/
+10:15:53.525 Updating base class ->Camp_Pobeda, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Pobeda/
+10:15:53.525 Updating base class ->Camp_Metalurg, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Metalurg/
+10:15:53.525 Updating base class ->Hill_Zelenayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Zelenayagora/
+10:15:53.525 Updating base class ->Local_Dichina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Dichina/
+10:15:53.525 Updating base class ->Local_Novylug, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Novylug/
+10:15:53.525 Updating base class ->Local_Staryeluga, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Staryeluga/
+10:15:53.525 Updating base class ->Hill_Vysota, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Vysota/
+10:15:53.525 Updating base class ->Hill_Kopyto, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kopyto/
+10:15:53.525 Updating base class ->Local_Grubyeskaly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Grubyeskaly/
+10:15:53.525 Updating base class ->Local_Chernyles, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Chernyles/
+10:15:53.525 Updating base class ->Hill_Altar, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Altar/
+10:15:53.525 Updating base class ->Local_RadioZenit, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_RadioZenit/
+10:15:53.525 Updating base class ->Hill_PikKozlova, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_PikKozlova/
+10:15:53.525 Updating base class ->Local_Pustoykhrebet, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Pustoykhrebet/
+10:15:53.525 Updating base class ->Hill_Bashnya, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Bashnya/
+10:15:53.525 Updating base class ->Hill_Veresnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Veresnik/
+10:15:53.525 Updating base class ->Hill_Kurgan, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kurgan/
+10:15:53.525 Updating base class ->Hill_Kustryk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kustryk/
+10:15:53.525 Updating base class ->Hill_Vetryanayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Vetryanayagora/
+10:15:53.525 Updating base class ->Hill_Kalmyk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kalmyk/
+10:15:53.525 Updating base class ->Hill_PopIvan, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_PopIvan/
+10:15:53.525 Updating base class ->Hill_Erbenka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Erbenka/
+10:15:53.525 Updating base class ->Local_Lesnoykhrebet, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Lesnoykhrebet/
+10:15:53.525 Updating base class ->Hill_Vysokiykamen, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Vysokiykamen/
+10:15:53.525 Updating base class ->Hill_Dobry, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Dobry/
+10:15:53.525 Updating base class ->Hill_Baranchik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Baranchik/
+10:15:53.525 Updating base class ->Hill_Malinovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Malinovka/
+10:15:53.525 Updating base class ->Hill_Dubina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Dubina/
+10:15:53.525 Updating base class ->Hill_Klen, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Klen/
+10:15:53.525 Updating base class ->Hill_Chernayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Chernayagora/
+10:15:53.525 Updating base class ->Ruin_Zolotar, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Zolotar/
+10:15:53.525 Updating base class ->Hill_Ostry, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Ostry/
+10:15:53.525 Updating base class ->Hill_Olsha, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Olsha/
+10:15:53.525 Updating base class ->Marine_Tikhiyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Tikhiyzaliv/
+10:15:53.525 Updating base class ->Marine_Mutnyizaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Mutnyizaliv/
+10:15:53.525 Updating base class ->Marine_Chernyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Chernyzaliv/
+10:15:53.525 Updating base class ->Marine_Zelenyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Zelenyzaliv/
+10:15:53.525 Updating base class ->Marine_Skalistyproliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Skalistyproliv/
+10:15:53.525 Updating base class ->Marine_Nizhniyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Nizhniyzaliv/
+10:15:53.525 Updating base class ->Marine_ZalivGuba, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_ZalivGuba/
+10:15:53.525 Updating base class ->Marine_Rify, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Rify/
+10:15:53.525 Updating base class ->Marine_Ivovoyeozero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Ivovoyeozero/
+10:15:53.525 Updating base class ->Marine_Chernoyeozero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Chernoyeozero/
+10:15:53.525 Updating base class ->Marine_PlotinaTopolka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_PlotinaTopolka/
+10:15:53.525 Updating base class ->Marine_PlotinaPobeda, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_PlotinaPobeda/
+10:15:53.525 Updating base class ->Marine_PlotinaTishina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_PlotinaTishina/
+10:15:53.525 Updating base class ->Marine_Ozerko, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Ozerko/
+10:15:53.525 Updating base class ->Marine_Prud, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Prud/
+10:15:53.525 Updating base class ->Ruin_Chortovzamok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Chortovzamok/
+10:15:53.525 Updating base class ->Ruin_Zub, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Zub/
+10:15:53.525 Updating base class ->Ruin_Rog, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Rog/
+10:15:53.525 Updating base class ->Local_Grozovypereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Grozovypereval/
+10:15:53.525 Updating base class ->Local_Sosnovypereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Sosnovypereval/
+10:15:53.525 Updating base class ->Local_PerevalOreshka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_PerevalOreshka/
+10:15:53.525 Updating base class ->Local_Turovskiypereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Turovskiypereval/
+10:15:53.525 Updating base class ->Local_Tridoliny, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Tridoliny/
+10:15:53.525 Updating base class ->Local_Grozovyedoly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Grozovyedoly/
+10:15:53.525 Updating base class ->Ruin_Klyuch, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Klyuch/
+10:15:53.525 Updating base class ->Hill_Lysayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Lysayagora/
+10:15:53.525 Updating base class ->Marine_Glubokoyeozero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Glubokoyeozero/
+10:15:53.525 Updating base class ->Local_Skalka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Skalka/
+10:15:53.525 Updating base class ->Local_Vidy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Vidy/
+10:15:53.525 Updating base class ->Hill_Tumannyverkh, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Tumannyverkh/
+10:15:53.525 Updating base class ->Local_Adamovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Adamovka/
+10:15:53.525 Updating base class ->Hill_Shishok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Shishok/
+10:15:53.525 Updating base class ->Settlement_Skalisty, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Skalisty/
+10:15:53.525 Updating base class ->Ruin_Storozh, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Storozh/
+10:15:53.525 Updating base class ->Local_Drakon, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Drakon/
+10:15:53.525 Updating base class ->Local_Otmel, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Otmel/
+10:15:53.525 Updating base class ->Local_MysGolova, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MysGolova/
+10:15:53.525 Updating base class ->Local_MysKrutoy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MysKrutoy/
+10:15:53.525 Updating base class ->Hill_Tokarnya, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Tokarnya/
+10:15:53.525 Updating base class ->Hill_Ostrog, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Ostrog/
+10:15:53.525 Updating base class ->Local_Maryanka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Maryanka/
+10:15:53.525 Updating base class ->Local_Polonina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Polonina/
+10:15:53.525 Updating base class ->Local_Kalinka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Kalinka/
+10:15:53.525 Updating base class ->Hill_Kikimora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kikimora/
+10:15:53.525 Updating base class ->Hill_BolshoyKotel, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_BolshoyKotel/
+10:15:53.525 Updating base class ->Hill_Simurg, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Simurg/
+10:15:53.525 Updating base class ->Hill_Volchiypik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Volchiypik/
+10:15:53.525 Updating base class ->Ruin_Krona, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Krona/
+10:15:53.525 Updating base class ->Local_TriKresta, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_TriKresta/
+10:15:53.525 Updating base class ->Local_Rostoki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Rostoki/
+10:15:53.525 Updating base class ->Marine_OrlyeOzero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_OrlyeOzero/
+10:15:53.525 Updating base class ->Local_Makosh, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Makosh/
+10:15:53.525 Updating base class ->Local_Klenovyipereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Klenovyipereval/
+10:15:53.525 Updating base class ->Local_Zmeinykhrebet, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Zmeinykhrebet/
+10:15:53.525 Updating base class ->Hill_Sokol, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Sokol/
+10:15:53.525 Updating base class ->Local_Krutyeskaly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Krutyeskaly/
+10:15:53.525 Updating base class ->Local_Bogat, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Bogat/
+10:15:53.525 Updating base class ->Local_Dubnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Dubnik/
+10:15:53.525 Updating base class ->Hill_Viselitsa, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Viselitsa/
+10:15:53.525 Updating base class ->Local_Dazhbog, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Dazhbog/
+10:15:53.525 Updating base class ->Marine_Verbnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Verbnik/
+10:15:53.525 Updating base class ->Local_Medvezhilugi, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Medvezhilugi/
+10:15:53.525 Updating base class ->Ruin_Voron, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Voron/
+10:15:53.525 Updating base class ->Ruin_Gnomovzamok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Gnomovzamok/
+10:15:53.525 Updating base class ->Marine_Glaza, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Glaza/
+10:15:53.525 Updating base class ->Local_KarerKrasnayaZarya, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_KarerKrasnayaZarya/
+10:15:53.525 Updating base class ->Local_Matveyevo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Matveyevo/
+10:15:53.525 Updating base class ->Local_Kotka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Kotka/
+10:15:53.525 Updating base class ->Local_Chernyeskaly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Chernyeskaly/
+10:15:53.525 Updating base class ->Hill_SvyatoyRoman, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_SvyatoyRoman/
+10:15:53.525 Updating base class ->Hill_Koman, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Koman/
+10:15:53.525 Updating base class ->Hill_Mayak, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Mayak/
+10:15:53.525 Updating base class ->Local_MB_VMC, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_VMC/
+10:15:53.525 Updating base class ->Local_MB_Tisy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Tisy/
+10:15:53.525 Updating base class ->Local_MB_Kamensk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Kamensk/
+10:15:53.525 Updating base class ->Local_MB_Zeleno, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Zeleno/
+10:15:53.525 Updating base class ->Local_MB_Pavlovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Pavlovo/
+10:15:53.525 Updating base class ->Local_AF_Balota, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_AF_Balota/
+10:15:53.525 Updating base class ->Local_AF_Krasno, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_AF_Krasno/
+10:15:53.525 Updating base class ->Local_AF_Vybor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_AF_Vybor/
+10:15:54.454 ENGINE    (W): No module info used, trying to identify -> 0x4AF70000
+
+10:15:54.455 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+
+10:15:54.581 [Inputs] Loading inputs default "bin/constants.xml"
+10:15:54.587 [Inputs] Loading inputs default "bin/specific.xml"
+10:15:54.588 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+10:15:54.588 [Inputs] Loading inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\Survivor\Server.core.xml"
+10:15:54.592 [Inputs] Exporting inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\Survivor\Server.core.xml"
+10:15:55.102 SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+
+10:15:55.667 ANIMATION (E): Can't load K:\DayZ\ModBuilds\@PBMilitaryRetextures/Anims/cfg/skeletons.anim.xml
+
+10:15:55.667 ANIMATION (E): Failed to open file, line 0, column 0
+
+10:15:55.667 ANIMATION (E): Can't load D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools/Anims/cfg/skeletons.anim.xml
+
+10:15:55.667 ANIMATION (E): Failed to open file, line 0, column 0
+
+10:15:55.667 ANIMATION (E): Can't load D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF/Anims/cfg/skeletons.anim.xml
+
+10:15:55.667 ANIMATION (E): Failed to open file, line 0, column 0
+
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.farCloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.cloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.farCloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.cloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.farCloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.cloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.farCloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.cloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.farCloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.cloud'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.spaceIntensity'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.starsIntensity'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.atmosphereIntensity'.
+10:15:55.919 Warning Message: Trying to access error value.
+10:15:55.919 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.NearCloud'.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.farCloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.cloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.farCloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.cloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.farCloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.cloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.farCloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.cloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.farCloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.cloud'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.spaceIntensity'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.starsIntensity'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.atmosphereIntensity'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.NearCloud'.
+10:15:55.922 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.volFogOffset'.
+10:15:55.922 Warning Message: Trying to access error value.
+10:15:55.923 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.spaceObject'.
+10:15:55.923 Warning Message: Trying to access error value.
+10:15:55.923 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.atmosphereObject'.
+10:15:55.923 Warning Message: Trying to access error value.
+10:15:55.923 Atmosphere not loaded, using old 'sky'.
+10:15:55.923 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.nearCloudObject'.
+10:15:55.923 Warning Message: Trying to access error value.
+10:15:55.923 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.cloudObject'.
+10:15:55.923 Warning Message: Trying to access error value.
+10:15:55.923 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.horizonObject'.
+10:15:55.923 Warning Message: Trying to access error value.
+10:15:59.716 RENDER    (E): Cannot find PP effect CloudsEffect, is the name correct?
+
+10:15:59.721 MATERIAL  (E): Can't load 'DropRefractionTex' 'graphics/textures/postprocess/drop_refraction.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+10:15:59.729 MATERIAL  (E): Can't load 'DistantTex' 'graphics/textures/postprocess/raindistantmask.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+10:15:59.734 MATERIAL  (E): Can't load 'RotationNoiseMap' 'graphics/textures/postprocess/noise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+10:15:59.735 MATERIAL  (E): Can't load 'RipplesMap' 'graphics/textures/postprocess/ripple.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+10:15:59.783 MATERIAL  (E): Can't load 'MovableMap' 'graphics/textures/postprocess/rainripplesmovable.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+10:15:59.785 MATERIAL  (E): Can't load 'MovableNoiseMap' 'graphics/textures/postprocess/rainripplesmovablenoise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+10:15:59.785 MATERIAL  (E): Can't load 'ColorTable' 'graphics/textures/postprocess/color_test.edds', in material @"Graphics/Materials/postprocess/colorgrading.emat"
+
+10:15:59.861 Warning: CfgWeapons missing in PreloadConfig - may slow down vehicle creation
+10:15:59.861 Warning: CfgMagazines missing in PreloadConfig - may slow down vehicle creation
+10:15:59.861 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.861 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.861 String "STR_DN_CAR" not found (not in localization table)
+10:15:59.861 String "STR_DN_HELICOPTER" not found (not in localization table)
+10:15:59.861 String "STR_DN_HELICOPTER" not found (not in localization table)
+10:15:59.861 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.861 String "STR_DN_MAN" not found (not in localization table)
+10:15:59.862 String "STR_DN_ANIMAL" not found (not in localization table)
+10:15:59.862 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.862 String "STR_DN_BUNKER" not found (not in localization table)
+10:15:59.862 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.862 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.862 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.862 String "STR_DN_UNKNOWN" not found (not in localization table)
+10:15:59.862 String "STR_DN_MAN" not found (not in localization table)
+10:15:59.862 String "STR_DN_MAN" not found (not in localization table)
+10:15:59.862 String "STR_DN_MAN" not found (not in localization table)
+10:15:59.862 String "STR_DN_ANIMAL" not found (not in localization table)
+10:15:59.862 String "STR_DN_ANIMAL" not found (not in localization table)
+10:15:59.878 String "STR_DN_MAN" not found (not in localization table)
+10:15:59.958 String "STR_DN_CAR" not found (not in localization table)
+10:15:59.959 String "STR_DN_CAR" not found (not in localization table)
+10:15:59.959 String "STR_DN_CAR" not found (not in localization table)
+10:15:59.959 String "STR_DN_CAR" not found (not in localization table)
+10:15:59.959 String "STR_DN_CAR" not found (not in localization table)
+10:16:00.392 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Bird/
+10:16:00.392 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Insect/
+10:16:00.395 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.simulation'.
+10:16:00.395 Warning Message: Trying to access error value.
+10:16:00.395 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew/
+10:16:00.395 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.model'.
+10:16:00.395 Warning Message: Trying to access error value.
+10:16:00.395 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.simulation'.
+10:16:00.395 Warning Message: Trying to access error value.
+10:16:00.408 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.AUG_Closure_SoundShader'.
+10:16:00.408 Warning Message: No entry '.samples'.
+10:16:00.408 Warning Message: Size: '/' not an array
+10:16:00.408 Warning Message: Size: '/' not an array
+10:16:00.408 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.AUG_Closure_SoundShader'.
+10:16:00.408 Warning Message: No entry '.samples'.
+10:16:00.408 Warning Message: Size: '/' not an array
+10:16:00.408 Warning Message: Size: '/' not an array
+10:16:00.412 String "STR_CfgMagazines_Mag_CZ550_4rnd0" not found (not in localization table)
+10:16:00.457 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.SV98_silencerHomeMadeCloseShot_Sweetener_SoundShader'.
+10:16:00.457 Warning Message: No entry '.samples'.
+10:16:00.457 Warning Message: Size: '/' not an array
+10:16:00.457 Warning Message: Size: '/' not an array
+10:16:00.464 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.IZH18_Closure_SoundShader'.
+10:16:00.464 Warning Message: No entry '.samples'.
+10:16:00.464 Warning Message: Size: '/' not an array
+10:16:00.464 Warning Message: Size: '/' not an array
+10:16:00.473 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.DesertEagleG_Closure_SoundShader'.
+10:16:00.473 Warning Message: No entry '.samples'.
+10:16:00.473 Warning Message: Size: '/' not an array
+10:16:00.473 Warning Message: Size: '/' not an array
+10:16:00.500 Warning Message: 'access/' is not a class ('EnfAnimSys' accessed)
+10:16:00.569 Warning: No components in dz\gear\camping\mediumtent.p3d:geometryView
+10:16:00.575 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometry
+10:16:00.575 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometryFire
+10:16:00.575 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometryView
+10:16:00.582 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometry
+10:16:00.582 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometry
+10:16:00.582 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryFire
+10:16:00.582 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryFire
+10:16:00.582 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryView
+10:16:00.582 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryView
+10:16:00.582 Warning: No components in dz\gear\camping\largetent.p3d:geometryView
+10:16:00.582 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity LargeTent
+10:16:00.601 Warning: No components in dz\gear\camping\cartent.p3d:geometryView
+10:16:00.604 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometry
+10:16:00.604 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometryFire
+10:16:00.604 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometryView
+10:16:00.613 Warning: No components in dz\gear\camping\party_tent.p3d:geometryView
+10:16:00.613 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent
+10:16:00.617 Warning: No components in dz\gear\camping\proxies\partytentpackproxy.p3d:geometry
+10:16:00.617 Warning: No components in dz\gear\camping\proxies\partytentpackproxy.p3d:geometryFire
+10:16:00.619 Warning: No components in dz\gear\camping\proxies\partytentcamo1closedproxy.p3d:geometry
+10:16:00.619 Warning: No components in dz\gear\camping\proxies\partytentcamo2closedproxy.p3d:geometry
+10:16:00.619 Warning: No components in dz\gear\camping\proxies\partytentcamo3closedproxy.p3d:geometry
+10:16:00.620 Warning: No components in dz\gear\camping\proxies\partytentcamo4closedproxy.p3d:geometry
+10:16:00.620 Warning: No components in dz\gear\camping\proxies\partytentcamo5closedproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamo6closedproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamoroofproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamo1openedproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamo2openedproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamo3openedproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamo4openedproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamo5openedproxy.p3d:geometry
+10:16:00.621 Warning: No components in dz\gear\camping\proxies\partytentcamo6openedproxy.p3d:geometry
+10:16:00.622 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Blue
+10:16:00.623 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Brown
+10:16:00.625 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Lunapark
+10:16:00.681 Warning: No components in dz\gear\camping\proxies\roof.p3d:geometryFire
+10:16:00.685 Warning: No components in dz\gear\camping\proxies\camonet.p3d:geometry
+10:16:00.687 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted.p3d:geometry
+10:16:00.687 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted.p3d:geometryView
+10:16:00.687 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted_up.p3d:geometryView
+10:16:00.803 DamageSystem Warning: Selection wall_gate doesn't exists in fire geometry for entity Fence
+10:16:00.804 Warning: No components in dz\gear\camping\proxies\gate.p3d:geometry
+10:16:00.804 Warning: No components in dz\gear\camping\proxies\gate.p3d:geometryView
+10:16:00.828 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior.p3d:geometryFire
+10:16:00.828 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior.p3d:geometryView
+10:16:00.828 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver.simulation'.
+10:16:00.828 Warning Message: Trying to access error value.
+10:16:00.828 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver/
+10:16:00.828 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver.simulation'.
+10:16:00.828 Warning Message: Trying to access error value.
+10:16:00.829 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Cargo.simulation'.
+10:16:00.829 Warning Message: Trying to access error value.

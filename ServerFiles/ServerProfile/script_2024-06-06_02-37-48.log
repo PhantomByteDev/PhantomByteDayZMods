@@ -1,0 +1,16 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\script_2024-06-06_02-37-48.log started at 06.06. 02:37:49
+
+SCRIPT       : Registered 327 temporary action enum(s), UAN==327
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : Creating Mission: dz\Worlds\ChernarusPlus\data\scenes\intro.ChernarusPlus\mission.c
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickAxe_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickSaw_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickKnife_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickMachete_SoundSet".
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_ext_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_ext_Soundset".
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ~DayZGame()

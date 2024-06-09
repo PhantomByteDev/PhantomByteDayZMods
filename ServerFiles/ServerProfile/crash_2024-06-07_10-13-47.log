@@ -1,0 +1,44 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\crash_2024-06-07_10-13-47.log started at 07.06. 10:15:03
+
+
+
+------------------------------------
+DESKTOP-CP4RD38, 07.06 2024 10:15:03
+Unhandled exception
+
+Program: D:\SteamLibrary\steamapps\common\DayZExp\DayZDiag_x64.exe
+Reason: SEH exception thrown. Exception code: 0xc0000374 at 0x7ffdff3dc769
+
+[RtlIsZeroMemory]: ??? addr:0x7ffdff3dc769
+[RtlIsZeroMemory]: ??? addr:0x7ffdff3dc733
+[_misaligned_access]: ??? addr:0x7ffdff3e57ca
+[_misaligned_access]: ??? addr:0x7ffdff3e5aaa
+[_misaligned_access]: ??? addr:0x7ffdff3f1aa5
+[RtlGetCurrentServiceSessionId]: ??? addr:0x7ffdff30becc
+[RtlFreeHeap]: ??? addr:0x7ffdff30ab11
+[free_base]: ??? addr:0x7ffdfcc9364b
+SymGetSymFromAddr:487, addr:0x7ff7c107ff52
+SymGetSymFromAddr:487, addr:0x7ff7c12be1e7
+SymGetSymFromAddr:487, addr:0x7ff7c151c074
+SymGetSymFromAddr:487, addr:0x7ff7c1346028
+SymGetSymFromAddr:487, addr:0x7ff7c12bb9f3
+SymGetSymFromAddr:487, addr:0x7ff7c1337f05
+SymGetSymFromAddr:487, addr:0x7ff7c15a72ed
+[CDPCreateServer]: ??? addr:0x7ff7c1b7ccf9
+[CDPCreateServer]: ??? addr:0x7ff7c1b71e4e
+[CDPCreateServer]: ??? addr:0x7ff7c1b73f8b
+SymGetSymFromAddr:487, addr:0x7ff7c144bb62
+[CDPCreateServer]: ??? addr:0x7ff7c1b74524
+SymGetSymFromAddr:487, addr:0x7ff7c145704d
+[CDPCreateServer]: ??? addr:0x7ff7c1b7cbfc
+SymGetSymFromAddr:487, addr:0x7ff7c158b3c8
+[CDPCreateServer]: ??? addr:0x7ff7c1cc0eb2
+[BaseThreadInitThunk]: ??? addr:0x7ffdfd01257d
+[RtlUserThreadStart]: ??? addr:0x7ffdff32aa48
+[RtlUserThreadStart]: ??? addr:0x7ffdff32aa48
+
+
+
+Runtime mode
+CLI params: server  mod D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;K:\DayZ\ModBuilds\@PBMilitaryRetextures; config K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\serverDZ.cfg profiles K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile doLogs  adminlog  NoBattlEye  newErrorsAreWarnings 1 

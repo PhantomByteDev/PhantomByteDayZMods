@@ -1,0 +1,30 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\script_2024-06-07_09-57-09.log started at 07.06. 09:57:11
+
+SCRIPT       : Registered 327 temporary action enum(s), UAN==327
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : Creating Mission: mpmissions\__cur_mp.chernarusplus\mission.c
+SCRIPT       : SyncEvents -> RegisterEvents
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_ext_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_ext_Soundset".
+SCRIPT       : Creating Mission: dz\Worlds\ChernarusPlus\data\scenes\intro.ChernarusPlus\mission.c
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickAxe_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickSaw_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickKnife_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickMachete_SoundSet".
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT    (E): NullPointerError
+Class:      'COTModule'
+Function: 'Call'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\classes\cotmodule.c:241
+JM/CF/Scripts/3_Game/communityframework\inputbindings\cf_inputbindings.c:123
+JM/COT/Scripts/3_Game/communityonlinetools\inputbindings\cf_inputbindings.c:13
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:29
+SCRIPT       : Creating Mission: mpmissions\__cur_mp.chernarusplus\mission.c
+SCRIPT       : SyncEvents -> RegisterEvents
+SCRIPT       : Creating Mission: dz\Worlds\ChernarusPlus\data\scenes\intro.ChernarusPlus\mission.c
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----

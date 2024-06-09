@@ -1,0 +1,11 @@
+{
+    "showTrackers": 1,
+    "showDistanceTracker": 1,
+    "showDistanceHUD": 1,
+    "transitionMeters1": 25,
+    "transitionMeters2": 1000,
+    "iconTransition1": "",
+    "iconTransition2": "",
+    "showIconTracker1": 1,
+    "showIconTracker2": 1
+}

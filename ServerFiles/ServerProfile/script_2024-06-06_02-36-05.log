@@ -1,0 +1,6 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\script_2024-06-06_02-36-05.log started at 06.06. 02:36:05
+
+SCRIPT       : Registered 327 temporary action enum(s), UAN==327
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled

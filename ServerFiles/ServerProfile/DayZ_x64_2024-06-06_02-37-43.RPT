@@ -1,0 +1,19 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe /min "-mod=D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;K:\DayZ\ModBuilds\@PB-MilitaryRetextures;K:\DayZ\ModBuilds\@PB-MilitaryRetextures;" "-connect=127.0.0.1" "-port=2302" "-profiles=K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile" "-name=PhantomByte" "-newErrorsAreWarnings=1"
+=====================================================================
+Exe timestamp: 2024/05/27 18:52:21
+Current time:  2024/06/06 02:37:49
+Version 1.25.158199
+=====================================================================
+
+ 2:37:49.559 [Inputs] Loading inputs default "bin/constants.xml"
+ 2:37:49.561 [Inputs] Loading inputs default "bin/specific.xml"
+ 2:37:49.561 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 2:37:49.562 [Inputs] Loading inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\PhantomByte\phant.core.xml"
+ 2:37:49.566 [Inputs] Exporting inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\PhantomByte\phant.core.xml"
+ 2:38:08.256 [ErrorModuleHandler] :: Error thrown: 0x00040074 (@PB-MilitaryRetextures)
+
+(#STR_ve_unexpected_source
+(K:\DayZ\ModBuilds\@PB-MilitaryRetextures\addons\Characters.pbo))
+ 2:38:32.392  --- Termination successfully completed --- 

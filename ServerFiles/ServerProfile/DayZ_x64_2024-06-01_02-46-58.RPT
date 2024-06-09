@@ -1,0 +1,18 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe /min "-mod=D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@PartyMe;K:\DayZ\ModBuilds\@FinalFrontierServerPack;" "-connect=127.0.0.1" "-port=2302" "-profiles=K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile" "-name=PhantomByte" "-newErrorsAreWarnings=1"
+=====================================================================
+Exe timestamp: 2024/05/27 18:52:21
+Current time:  2024/06/01 02:47:04
+Version 1.25.158199
+=====================================================================
+
+ 2:47:04.545 [Inputs] Loading inputs default "bin/constants.xml"
+ 2:47:04.547 [Inputs] Loading inputs default "bin/specific.xml"
+ 2:47:04.548 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 2:47:04.548 [Inputs] Loading inputs default "partyme/scripts/partyme_inputs.xml"
+ 2:47:04.549 [Inputs] Loading inputs cfg "K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\Users\PhantomByte\phant.core.xml"
+ 2:47:04.551 [Inputs] Exporting inputs cfg "K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\Users\PhantomByte\phant.core.xml"
+ 2:47:05.230 !!! [Inputs] Attempt to register "PMHideShowTrackers" input twice
+ 2:48:13.157 [ErrorModuleHandler] :: Error thrown: 0x000400F0 (Game restart required)
+ 2:48:25.137 [ErrorModuleHandler] :: Error thrown: 0x00040033 ()

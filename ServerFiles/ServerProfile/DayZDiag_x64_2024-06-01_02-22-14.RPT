@@ -1,0 +1,1132 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe
+== D:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe /min "-server" "-mod=D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@PartyMe;K:\DayZ\ModBuilds\@FinalFrontierServerPack" "-config=K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\serverDZ.cfg" "-profiles=K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile" "-doLogs" "-adminlog" "-NoBattlEye" "-newErrorsAreWarnings=1"
+=====================================================================
+Exe timestamp: 2024/05/27 18:52:21
+Current time:  2024/06/01 02:22:14
+Version 1.25.158199
+=====================================================================
+
+ 2:22:14.780 String "STR_server_shutdown" listed twice in "Global"
+ 2:22:14.791 Localization not present: STR_DATE_FORMAT_SHORT
+ 2:22:14.791 Localization not present: STR_TIME_FORMAT
+ 2:22:14.791 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 2:22:14.791 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 2:22:14.791 Localization not present: STR_MP_VALIDERROR
+ 2:22:14.791 Localization not present: STR_MP_CONNECTION_LOOSING
+ 2:22:14.791 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 2:22:14.791 Localization not present: STR_MSG_LAUNCH_GAME
+ 2:22:14.791 Localization not present: STR_LOAD_INIT
+ 2:22:14.791 Localization not present: STR_LOAD_WORLD
+ 2:22:14.791 Localization not present: STR_LOAD_GAME
+ 2:22:14.791 Localization not present: STR_SAVE_GAME
+ 2:22:14.791 Localization not present: STR_MP_CONNECT
+ 2:22:14.791 Localization not present: STR_MP_DISCONNECT
+ 2:22:14.791 Localization not present: STR_MP_CONNECTING
+ 2:22:14.791 Localization not present: STR_MP_TIMEOUT
+ 2:22:14.791 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 2:22:14.791 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 2:22:14.792 Localization not present: STR_DATE_FORMAT_SHORT
+ 2:22:14.792 Localization not present: STR_TIME_FORMAT
+ 2:22:14.792 Localization not present: STR_CONFIG_CONTROLLER_NORMAL_LOOK
+ 2:22:14.792 Localization not present: STR_CONFIG_CONTROLLER_REVERSED_LOOK
+ 2:22:14.792 Localization not present: STR_MP_VALIDERROR
+ 2:22:14.792 Localization not present: STR_MP_CONNECTION_LOOSING
+ 2:22:14.792 Localization not present: STR_MSG_MP_NO_PASSWORD
+ 2:22:14.792 Localization not present: STR_MSG_LAUNCH_GAME
+ 2:22:14.792 Localization not present: STR_LOAD_INIT
+ 2:22:14.792 Localization not present: STR_LOAD_WORLD
+ 2:22:14.792 Localization not present: STR_LOAD_GAME
+ 2:22:14.792 Localization not present: STR_SAVE_GAME
+ 2:22:14.792 Localization not present: STR_MP_CONNECT
+ 2:22:14.792 Localization not present: STR_MP_DISCONNECT
+ 2:22:14.792 Localization not present: STR_MP_CONNECTING
+ 2:22:14.792 Localization not present: STR_MP_TIMEOUT
+ 2:22:14.792 Localization not present: STR_DISP_CLIENT_TEXT_EDIT
+ 2:22:14.792 Localization not present: STR_MP_LOGIN_QUEUE_FULL
+ 2:22:15.61 String "STR_COT_PLAYER_MODULE_RIGHT_PLAYER_QUICK_ACTIONS_BAN" listed twice in "Global"
+ 2:22:15.548 Updating base class All->AllVehicles, by DZ\data\config.bin/CfgVehicles/Man/
+ 2:22:15.577 Updating base class Name->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/Hill/
+ 2:22:15.577 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/ViewPoint/
+ 2:22:15.577 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/RockArea/
+ 2:22:15.577 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/BorderCrossing/
+ 2:22:15.577 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationBroadleaf/
+ 2:22:15.577 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationFir/
+ 2:22:15.577 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationPalm/
+ 2:22:15.577 Updating base class Hill->NameIcon, by DZ\gear\navigation\config.bin/CfgLocationTypes/VegetationVineyard/
+ 2:22:15.658 Updating base class ->Rifle_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1_Base/
+ 2:22:15.658 Updating base class ->M4A1_Base, by DZ\weapons\firearms\m4\config.bin/cfgWeapons/M4A1/
+ 2:22:15.662 Updating base class Weather->, by DZ\worlds\chernarusplus\world\config.bin/CfgWorlds/CAWorld/Weather/
+ 2:22:15.662 Updating base class Overcast->, by DZ\worlds\chernarusplus\world\config.bin/CfgWorlds/CAWorld/Weather/Overcast/
+ 2:22:15.663 Updating base class ->Names, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/
+ 2:22:15.663 Updating base class ->Settlement_Chernogorsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Chernogorsk/
+ 2:22:15.663 Updating base class ->Settlement_Novodmitrovsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Novodmitrovsk/
+ 2:22:15.663 Updating base class ->Settlement_Novoselki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Novoselki/
+ 2:22:15.663 Updating base class ->Settlement_Dubovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dubovo/
+ 2:22:15.663 Updating base class ->Settlement_Vysotovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vysotovo/
+ 2:22:15.663 Updating base class ->Settlement_Zelenogorsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zelenogorsk/
+ 2:22:15.663 Updating base class ->Settlement_Berezino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Berezino/
+ 2:22:15.663 Updating base class ->Settlement_Elektrozavodsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Elektrozavodsk/
+ 2:22:15.663 Updating base class ->Settlement_NovayaPetrovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_NovayaPetrovka/
+ 2:22:15.663 Updating base class ->Settlement_Gorka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Gorka/
+ 2:22:15.663 Updating base class ->Settlement_Solnechny, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Solnechny/
+ 2:22:15.663 Updating base class ->Settlement_StarySobor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_StarySobor/
+ 2:22:15.663 Updating base class ->Settlement_Vybor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vybor/
+ 2:22:15.663 Updating base class ->Settlement_Severograd, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Severograd/
+ 2:22:15.663 Updating base class ->Settlement_Bor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Bor/
+ 2:22:15.663 Updating base class ->Settlement_Svetloyarsk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Svetloyarsk/
+ 2:22:15.663 Updating base class ->Settlement_Krasnostav, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Krasnostav/
+ 2:22:15.663 Updating base class ->Settlement_ChernayaPolyana, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_ChernayaPolyana/
+ 2:22:15.663 Updating base class ->Settlement_Polyana, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Polyana/
+ 2:22:15.663 Updating base class ->Settlement_Tulga, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Tulga/
+ 2:22:15.663 Updating base class ->Settlement_Msta, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Msta/
+ 2:22:15.663 Updating base class ->Settlement_Staroye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Staroye/
+ 2:22:15.663 Updating base class ->Settlement_Shakhovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Shakhovka/
+ 2:22:15.663 Updating base class ->Settlement_Dolina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dolina/
+ 2:22:15.663 Updating base class ->Settlement_Orlovets, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Orlovets/
+ 2:22:15.663 Updating base class ->Settlement_NovySobor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_NovySobor/
+ 2:22:15.663 Updating base class ->Settlement_Kabanino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kabanino/
+ 2:22:15.663 Updating base class ->Settlement_Mogilevka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Mogilevka/
+ 2:22:15.663 Updating base class ->Settlement_Nadezhdino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Nadezhdino/
+ 2:22:15.663 Updating base class ->Settlement_Guglovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Guglovo/
+ 2:22:15.663 Updating base class ->Settlement_Kamyshovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kamyshovo/
+ 2:22:15.663 Updating base class ->Settlement_Pusta, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pusta/
+ 2:22:15.663 Updating base class ->Settlement_Dubrovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dubrovka/
+ 2:22:15.663 Updating base class ->Settlement_VyshnayaDubrovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_VyshnayaDubrovka/
+ 2:22:15.663 Updating base class ->Settlement_Khelm, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Khelm/
+ 2:22:15.663 Updating base class ->Settlement_Olsha, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Olsha/
+ 2:22:15.663 Updating base class ->Settlement_Gvozdno, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Gvozdno/
+ 2:22:15.663 Updating base class ->Settlement_Grishino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Grishino/
+ 2:22:15.663 Updating base class ->Settlement_Rogovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Rogovo/
+ 2:22:15.663 Updating base class ->Settlement_Pogorevka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pogorevka/
+ 2:22:15.663 Updating base class ->Settlement_Pustoshka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pustoshka/
+ 2:22:15.663 Updating base class ->Settlement_Kozlovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kozlovka/
+ 2:22:15.663 Updating base class ->Settlement_Karmanovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Karmanovka/
+ 2:22:15.663 Updating base class ->Settlement_Balota, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Balota/
+ 2:22:15.663 Updating base class ->Settlement_Komarovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Komarovo/
+ 2:22:15.663 Updating base class ->Settlement_Kamenka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kamenka/
+ 2:22:15.663 Updating base class ->Settlement_Myshkino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Myshkino/
+ 2:22:15.663 Updating base class ->Settlement_Pavlovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pavlovo/
+ 2:22:15.663 Updating base class ->Settlement_Lopatino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Lopatino/
+ 2:22:15.663 Updating base class ->Settlement_Vyshnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vyshnoye/
+ 2:22:15.663 Updating base class ->Settlement_Prigorodki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Prigorodki/
+ 2:22:15.663 Updating base class ->Settlement_Drozhino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Drozhino/
+ 2:22:15.663 Updating base class ->Settlement_Sosnovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Sosnovka/
+ 2:22:15.663 Updating base class ->Settlement_Nizhneye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Nizhneye/
+ 2:22:15.663 Updating base class ->Settlement_Pulkovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Pulkovo/
+ 2:22:15.663 Updating base class ->Settlement_Berezhki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Berezhki/
+ 2:22:15.663 Updating base class ->Settlement_Turovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Turovo/
+ 2:22:15.663 Updating base class ->Settlement_BelayaPolyana, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_BelayaPolyana/
+ 2:22:15.663 Updating base class ->Settlement_Dobroye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Dobroye/
+ 2:22:15.663 Updating base class ->Settlement_Nagornoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Nagornoye/
+ 2:22:15.663 Updating base class ->Settlement_Svergino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Svergino/
+ 2:22:15.663 Updating base class ->Settlement_Ratnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Ratnoye/
+ 2:22:15.663 Updating base class ->Settlement_Kamensk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kamensk/
+ 2:22:15.663 Updating base class ->Settlement_Krasnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Krasnoye/
+ 2:22:15.663 Updating base class ->Settlement_StaryYar, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_StaryYar/
+ 2:22:15.663 Updating base class ->Settlement_Polesovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Polesovo/
+ 2:22:15.663 Updating base class ->Settlement_Tisy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Tisy/
+ 2:22:15.663 Updating base class ->Settlement_Topolniki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Topolniki/
+ 2:22:15.663 Updating base class ->Settlement_Zaprudnoye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zaprudnoye/
+ 2:22:15.663 Updating base class ->Settlement_Sinystok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Sinystok/
+ 2:22:15.663 Updating base class ->Settlement_Vavilovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Vavilovo/
+ 2:22:15.663 Updating base class ->Settlement_Kumyrna, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kumyrna/
+ 2:22:15.663 Updating base class ->Settlement_Kalinovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Kalinovka/
+ 2:22:15.663 Updating base class ->Settlement_Bogatyrka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Bogatyrka/
+ 2:22:15.663 Updating base class ->Settlement_SvyatoyRomanSkiResort, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_SvyatoyRomanSkiResort/
+ 2:22:15.663 Updating base class ->Settlement_SKVSChBiathlonArena, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_SKVSChBiathlonArena/
+ 2:22:15.663 Updating base class ->Settlement_Zvir, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zvir/
+ 2:22:15.663 Updating base class ->Settlement_Zabolotye, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Zabolotye/
+ 2:22:15.663 Updating base class ->Settlement_Galkino, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Galkino/
+ 2:22:15.663 Updating base class ->Camp_Arsenovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Arsenovo/
+ 2:22:15.663 Updating base class ->Camp_Stroytel, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Stroytel/
+ 2:22:15.663 Updating base class ->Camp_Romashka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Romashka/
+ 2:22:15.663 Updating base class ->Camp_Kometa, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Kometa/
+ 2:22:15.663 Updating base class ->Camp_Druzhba, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Druzhba/
+ 2:22:15.663 Updating base class ->Camp_Nadezhda, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Nadezhda/
+ 2:22:15.663 Updating base class ->Camp_YouthPioneer, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_YouthPioneer/
+ 2:22:15.663 Updating base class ->Camp_ProudChernarus, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_ProudChernarus/
+ 2:22:15.663 Updating base class ->Camp_Shkolnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Shkolnik/
+ 2:22:15.663 Updating base class ->Camp_Pobeda, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Pobeda/
+ 2:22:15.663 Updating base class ->Camp_Metalurg, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Camp_Metalurg/
+ 2:22:15.663 Updating base class ->Hill_Zelenayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Zelenayagora/
+ 2:22:15.663 Updating base class ->Local_Dichina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Dichina/
+ 2:22:15.663 Updating base class ->Local_Novylug, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Novylug/
+ 2:22:15.663 Updating base class ->Local_Staryeluga, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Staryeluga/
+ 2:22:15.663 Updating base class ->Hill_Vysota, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Vysota/
+ 2:22:15.663 Updating base class ->Hill_Kopyto, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kopyto/
+ 2:22:15.663 Updating base class ->Local_Grubyeskaly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Grubyeskaly/
+ 2:22:15.663 Updating base class ->Local_Chernyles, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Chernyles/
+ 2:22:15.663 Updating base class ->Hill_Altar, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Altar/
+ 2:22:15.663 Updating base class ->Local_RadioZenit, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_RadioZenit/
+ 2:22:15.663 Updating base class ->Hill_PikKozlova, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_PikKozlova/
+ 2:22:15.663 Updating base class ->Local_Pustoykhrebet, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Pustoykhrebet/
+ 2:22:15.663 Updating base class ->Hill_Bashnya, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Bashnya/
+ 2:22:15.663 Updating base class ->Hill_Veresnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Veresnik/
+ 2:22:15.663 Updating base class ->Hill_Kurgan, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kurgan/
+ 2:22:15.663 Updating base class ->Hill_Kustryk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kustryk/
+ 2:22:15.663 Updating base class ->Hill_Vetryanayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Vetryanayagora/
+ 2:22:15.663 Updating base class ->Hill_Kalmyk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kalmyk/
+ 2:22:15.663 Updating base class ->Hill_PopIvan, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_PopIvan/
+ 2:22:15.663 Updating base class ->Hill_Erbenka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Erbenka/
+ 2:22:15.663 Updating base class ->Local_Lesnoykhrebet, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Lesnoykhrebet/
+ 2:22:15.663 Updating base class ->Hill_Vysokiykamen, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Vysokiykamen/
+ 2:22:15.663 Updating base class ->Hill_Dobry, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Dobry/
+ 2:22:15.663 Updating base class ->Hill_Baranchik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Baranchik/
+ 2:22:15.663 Updating base class ->Hill_Malinovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Malinovka/
+ 2:22:15.663 Updating base class ->Hill_Dubina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Dubina/
+ 2:22:15.663 Updating base class ->Hill_Klen, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Klen/
+ 2:22:15.663 Updating base class ->Hill_Chernayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Chernayagora/
+ 2:22:15.663 Updating base class ->Ruin_Zolotar, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Zolotar/
+ 2:22:15.663 Updating base class ->Hill_Ostry, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Ostry/
+ 2:22:15.663 Updating base class ->Hill_Olsha, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Olsha/
+ 2:22:15.663 Updating base class ->Marine_Tikhiyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Tikhiyzaliv/
+ 2:22:15.663 Updating base class ->Marine_Mutnyizaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Mutnyizaliv/
+ 2:22:15.663 Updating base class ->Marine_Chernyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Chernyzaliv/
+ 2:22:15.663 Updating base class ->Marine_Zelenyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Zelenyzaliv/
+ 2:22:15.663 Updating base class ->Marine_Skalistyproliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Skalistyproliv/
+ 2:22:15.663 Updating base class ->Marine_Nizhniyzaliv, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Nizhniyzaliv/
+ 2:22:15.663 Updating base class ->Marine_ZalivGuba, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_ZalivGuba/
+ 2:22:15.663 Updating base class ->Marine_Rify, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Rify/
+ 2:22:15.663 Updating base class ->Marine_Ivovoyeozero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Ivovoyeozero/
+ 2:22:15.663 Updating base class ->Marine_Chernoyeozero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Chernoyeozero/
+ 2:22:15.663 Updating base class ->Marine_PlotinaTopolka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_PlotinaTopolka/
+ 2:22:15.663 Updating base class ->Marine_PlotinaPobeda, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_PlotinaPobeda/
+ 2:22:15.663 Updating base class ->Marine_PlotinaTishina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_PlotinaTishina/
+ 2:22:15.663 Updating base class ->Marine_Ozerko, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Ozerko/
+ 2:22:15.663 Updating base class ->Marine_Prud, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Prud/
+ 2:22:15.663 Updating base class ->Ruin_Chortovzamok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Chortovzamok/
+ 2:22:15.663 Updating base class ->Ruin_Zub, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Zub/
+ 2:22:15.663 Updating base class ->Ruin_Rog, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Rog/
+ 2:22:15.663 Updating base class ->Local_Grozovypereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Grozovypereval/
+ 2:22:15.663 Updating base class ->Local_Sosnovypereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Sosnovypereval/
+ 2:22:15.663 Updating base class ->Local_PerevalOreshka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_PerevalOreshka/
+ 2:22:15.663 Updating base class ->Local_Turovskiypereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Turovskiypereval/
+ 2:22:15.663 Updating base class ->Local_Tridoliny, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Tridoliny/
+ 2:22:15.663 Updating base class ->Local_Grozovyedoly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Grozovyedoly/
+ 2:22:15.663 Updating base class ->Ruin_Klyuch, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Klyuch/
+ 2:22:15.663 Updating base class ->Hill_Lysayagora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Lysayagora/
+ 2:22:15.663 Updating base class ->Marine_Glubokoyeozero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Glubokoyeozero/
+ 2:22:15.663 Updating base class ->Local_Skalka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Skalka/
+ 2:22:15.663 Updating base class ->Local_Vidy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Vidy/
+ 2:22:15.663 Updating base class ->Hill_Tumannyverkh, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Tumannyverkh/
+ 2:22:15.663 Updating base class ->Local_Adamovka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Adamovka/
+ 2:22:15.663 Updating base class ->Hill_Shishok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Shishok/
+ 2:22:15.663 Updating base class ->Settlement_Skalisty, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Settlement_Skalisty/
+ 2:22:15.663 Updating base class ->Ruin_Storozh, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Storozh/
+ 2:22:15.663 Updating base class ->Local_Drakon, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Drakon/
+ 2:22:15.663 Updating base class ->Local_Otmel, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Otmel/
+ 2:22:15.663 Updating base class ->Local_MysGolova, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MysGolova/
+ 2:22:15.663 Updating base class ->Local_MysKrutoy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MysKrutoy/
+ 2:22:15.663 Updating base class ->Hill_Tokarnya, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Tokarnya/
+ 2:22:15.663 Updating base class ->Hill_Ostrog, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Ostrog/
+ 2:22:15.663 Updating base class ->Local_Maryanka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Maryanka/
+ 2:22:15.663 Updating base class ->Local_Polonina, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Polonina/
+ 2:22:15.663 Updating base class ->Local_Kalinka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Kalinka/
+ 2:22:15.663 Updating base class ->Hill_Kikimora, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Kikimora/
+ 2:22:15.663 Updating base class ->Hill_BolshoyKotel, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_BolshoyKotel/
+ 2:22:15.663 Updating base class ->Hill_Simurg, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Simurg/
+ 2:22:15.663 Updating base class ->Hill_Volchiypik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Volchiypik/
+ 2:22:15.663 Updating base class ->Ruin_Krona, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Krona/
+ 2:22:15.663 Updating base class ->Local_TriKresta, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_TriKresta/
+ 2:22:15.663 Updating base class ->Local_Rostoki, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Rostoki/
+ 2:22:15.663 Updating base class ->Marine_OrlyeOzero, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_OrlyeOzero/
+ 2:22:15.663 Updating base class ->Local_Makosh, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Makosh/
+ 2:22:15.663 Updating base class ->Local_Klenovyipereval, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Klenovyipereval/
+ 2:22:15.663 Updating base class ->Local_Zmeinykhrebet, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Zmeinykhrebet/
+ 2:22:15.663 Updating base class ->Hill_Sokol, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Sokol/
+ 2:22:15.663 Updating base class ->Local_Krutyeskaly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Krutyeskaly/
+ 2:22:15.663 Updating base class ->Local_Bogat, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Bogat/
+ 2:22:15.663 Updating base class ->Local_Dubnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Dubnik/
+ 2:22:15.663 Updating base class ->Hill_Viselitsa, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Viselitsa/
+ 2:22:15.663 Updating base class ->Local_Dazhbog, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Dazhbog/
+ 2:22:15.663 Updating base class ->Marine_Verbnik, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Verbnik/
+ 2:22:15.663 Updating base class ->Local_Medvezhilugi, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Medvezhilugi/
+ 2:22:15.663 Updating base class ->Ruin_Voron, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Voron/
+ 2:22:15.663 Updating base class ->Ruin_Gnomovzamok, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Ruin_Gnomovzamok/
+ 2:22:15.663 Updating base class ->Marine_Glaza, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Marine_Glaza/
+ 2:22:15.663 Updating base class ->Local_KarerKrasnayaZarya, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_KarerKrasnayaZarya/
+ 2:22:15.663 Updating base class ->Local_Matveyevo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Matveyevo/
+ 2:22:15.663 Updating base class ->Local_Kotka, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Kotka/
+ 2:22:15.663 Updating base class ->Local_Chernyeskaly, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_Chernyeskaly/
+ 2:22:15.663 Updating base class ->Hill_SvyatoyRoman, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_SvyatoyRoman/
+ 2:22:15.663 Updating base class ->Hill_Koman, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Koman/
+ 2:22:15.663 Updating base class ->Hill_Mayak, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Hill_Mayak/
+ 2:22:15.663 Updating base class ->Local_MB_VMC, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_VMC/
+ 2:22:15.663 Updating base class ->Local_MB_Tisy, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Tisy/
+ 2:22:15.663 Updating base class ->Local_MB_Kamensk, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Kamensk/
+ 2:22:15.663 Updating base class ->Local_MB_Zeleno, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Zeleno/
+ 2:22:15.663 Updating base class ->Local_MB_Pavlovo, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_MB_Pavlovo/
+ 2:22:15.663 Updating base class ->Local_AF_Balota, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_AF_Balota/
+ 2:22:15.663 Updating base class ->Local_AF_Krasno, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_AF_Krasno/
+ 2:22:15.663 Updating base class ->Local_AF_Vybor, by JM\COT\GUI\config.bin/CfgWorlds/ChernarusPlus/Names/Local_AF_Vybor/
+ 2:22:16.221 ENGINE    (W): No module info used, trying to identify -> 0xDD340000
+
+ 2:22:16.225 RESOURCES (E): IRenderer::CreateTextureFromImage(Graphics/Textures/cammopal.edds) failed
+
+ 2:22:16.226 RESOURCES (E): IRenderer::CreateTextureFromImage(Graphics/Textures/cammopal.edds) failed
+
+ 2:22:16.227 RESOURCES (E): IRenderer::CreateTextureFromImage(system/textures/perlin.edds) failed
+
+ 2:22:16.227 RESOURCES (E): IRenderer::CreateTextureFromImage(system/textures/perlin.edds) failed
+
+ 2:22:16.231 RESOURCES (E): IRenderer::CreateTextureFromImage(system/textures/noise.edds) failed
+
+ 2:22:16.231 RESOURCES (E): IRenderer::CreateTextureFromImage(system/textures/perlin.edds) failed
+
+ 2:22:16.233 RESOURCES (E): IRenderer::CreateTextureFromImage(system/textures/PP/smaa_area.dds) failed
+
+ 2:22:16.234 RESOURCES (E): IRenderer::CreateTextureFromImage(system/textures/PP/smaa_search.dds) failed
+
+ 2:22:16.234 MATERIAL  (E): SMAAEffect area texture not found (system/textures/PP/smaa_area)
+
+ 2:22:16.234 MATERIAL  (E): SMAAEffect search texture not found (system/textures/PP/smaa_search)
+
+ 2:22:16.235 RESOURCES (E): IRenderer::CreateTextureFromImage(system/system.edds) failed
+
+ 2:22:16.236 RESOURCES (E): IRenderer::CreateTextureFromImage(system/systemsmall.edds) failed
+
+ 2:22:16.285 [Inputs] Loading inputs default "bin/constants.xml"
+ 2:22:16.286 [Inputs] Loading inputs default "bin/specific.xml"
+ 2:22:16.288 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 2:22:16.288 [Inputs] Loading inputs default "partyme/scripts/partyme_inputs.xml"
+ 2:22:16.288 [Inputs] Loading inputs cfg "K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\Users\Survivor\Server.core.xml"
+ 2:22:16.290 [Inputs] Exporting inputs cfg "K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\Users\Survivor\Server.core.xml"
+ 2:22:16.543 SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+
+ 2:22:16.732 !!! [Inputs] Attempt to register "PMHideShowTrackers" input twice
+ 2:22:16.732 ANIMATION (E): Can't load K:\DayZ\ModBuilds\@FinalFrontierServerPack/Anims/cfg/skeletons.anim.xml
+
+ 2:22:16.732 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 2:22:16.732 ANIMATION (E): Can't load D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@PartyMe/Anims/cfg/skeletons.anim.xml
+
+ 2:22:16.732 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 2:22:16.732 ANIMATION (E): Can't load D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools/Anims/cfg/skeletons.anim.xml
+
+ 2:22:16.732 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 2:22:16.732 ANIMATION (E): Can't load D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF/Anims/cfg/skeletons.anim.xml
+
+ 2:22:16.732 ANIMATION (E): Failed to open file, line 0, column 0
+
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.farCloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.cloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.farCloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.cloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.farCloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.cloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.farCloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.cloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.farCloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.cloud'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.spaceIntensity'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.starsIntensity'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.atmosphereIntensity'.
+ 2:22:16.816 Warning Message: Trying to access error value.
+ 2:22:16.816 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.NearCloud'.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.farCloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather1.cloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.farCloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather2.cloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.farCloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather3.cloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.farCloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather4.cloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.farCloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/Overcast/Weather5.cloud'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.spaceIntensity'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.starsIntensity'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.atmosphereIntensity'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld/Weather/LightingNew/C_Day60.NearCloud'.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.volFogOffset'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.spaceObject'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.atmosphereObject'.
+ 2:22:16.817 Warning Message: Trying to access error value.
+ 2:22:16.817 Atmosphere not loaded, using old 'sky'.
+ 2:22:16.818 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.nearCloudObject'.
+ 2:22:16.818 Warning Message: Trying to access error value.
+ 2:22:16.818 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.cloudObject'.
+ 2:22:16.818 Warning Message: Trying to access error value.
+ 2:22:16.818 Warning Message: No entry 'bin\config.bin/CfgWorlds/DefaultWorld.horizonObject'.
+ 2:22:16.818 Warning Message: Trying to access error value.
+ 2:22:18.204 RENDER    (E): Cannot find PP effect CloudsEffect, is the name correct?
+
+ 2:22:18.205 RESOURCES (E): IRenderer::CreateTextureFromImage(graphics/textures/postprocess/drop_refraction.edds) failed
+
+ 2:22:18.205 MATERIAL  (E): Can't load 'DropRefractionTex' 'graphics/textures/postprocess/drop_refraction.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 2:22:18.213 RESOURCES (E): IRenderer::CreateTextureFromImage(graphics/textures/postprocess/raindistantmask.edds) failed
+
+ 2:22:18.213 MATERIAL  (E): Can't load 'DistantTex' 'graphics/textures/postprocess/raindistantmask.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 2:22:18.217 RESOURCES (E): IRenderer::CreateTextureFromImage(graphics/textures/postprocess/noise.edds) failed
+
+ 2:22:18.217 MATERIAL  (E): Can't load 'RotationNoiseMap' 'graphics/textures/postprocess/noise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 2:22:18.217 RESOURCES (E): IRenderer::CreateTextureFromImage(graphics/textures/postprocess/ripple.edds) failed
+
+ 2:22:18.217 MATERIAL  (E): Can't load 'RipplesMap' 'graphics/textures/postprocess/ripple.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 2:22:18.236 RESOURCES (E): IRenderer::CreateTextureFromImage(graphics/textures/postprocess/rainripplesmovable.edds) failed
+
+ 2:22:18.236 MATERIAL  (E): Can't load 'MovableMap' 'graphics/textures/postprocess/rainripplesmovable.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 2:22:18.237 RESOURCES (E): IRenderer::CreateTextureFromImage(graphics/textures/postprocess/rainripplesmovablenoise.edds) failed
+
+ 2:22:18.237 MATERIAL  (E): Can't load 'MovableNoiseMap' 'graphics/textures/postprocess/rainripplesmovablenoise.edds', in material @"Graphics/Materials/postprocess/rain.emat"
+
+ 2:22:18.238 RESOURCES (E): IRenderer::CreateTextureFromImage(System/textures/noise.edds) failed
+
+ 2:22:18.238 MATERIAL  (E): Can't load 'NoiseMap' 'System/textures/noise.edds', in material @"Graphics/Materials/postprocess/filmgrain.emat"
+
+ 2:22:18.239 RESOURCES (E): IRenderer::CreateTextureFromImage(System/textures/noise.edds) failed
+
+ 2:22:18.239 MATERIAL  (E): Can't load 'NoiseMap' 'System/textures/noise.edds', in material @"Graphics/Materials/postprocess/filmgrainNV.emat"
+
+ 2:22:18.239 RESOURCES (E): IRenderer::CreateTextureFromImage(graphics/textures/postprocess/color_test.edds) failed
+
+ 2:22:18.239 MATERIAL  (E): Can't load 'ColorTable' 'graphics/textures/postprocess/color_test.edds', in material @"Graphics/Materials/postprocess/colorgrading.emat"
+
+ 2:22:18.281 Warning: CfgWeapons missing in PreloadConfig - may slow down vehicle creation
+ 2:22:18.281 Warning: CfgMagazines missing in PreloadConfig - may slow down vehicle creation
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_CAR" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_HELICOPTER" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_HELICOPTER" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_MAN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_ANIMAL" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_BUNKER" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_MAN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_MAN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_MAN" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_ANIMAL" not found (not in localization table)
+ 2:22:18.281 String "STR_DN_ANIMAL" not found (not in localization table)
+ 2:22:18.287 String "STR_DN_MAN" not found (not in localization table)
+ 2:22:18.293 String "STR_DN_CAR" not found (not in localization table)
+ 2:22:18.293 String "STR_DN_CAR" not found (not in localization table)
+ 2:22:18.293 String "STR_DN_CAR" not found (not in localization table)
+ 2:22:18.293 String "STR_DN_CAR" not found (not in localization table)
+ 2:22:18.293 String "STR_DN_CAR" not found (not in localization table)
+ 2:22:18.557 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Bird/
+ 2:22:18.557 Unrecognized CfgNonAIVehicles simulation seagull in bin\config.bin/CfgNonAIVehicles/Insect/
+ 2:22:18.559 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.simulation'.
+ 2:22:18.559 Warning Message: Trying to access error value.
+ 2:22:18.559 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew/
+ 2:22:18.559 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.model'.
+ 2:22:18.559 Warning Message: Trying to access error value.
+ 2:22:18.559 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew.simulation'.
+ 2:22:18.559 Warning Message: Trying to access error value.
+ 2:22:18.566 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.AUG_Closure_SoundShader'.
+ 2:22:18.566 Warning Message: No entry '.samples'.
+ 2:22:18.566 Warning Message: Size: '/' not an array
+ 2:22:18.566 Warning Message: Size: '/' not an array
+ 2:22:18.566 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.AUG_Closure_SoundShader'.
+ 2:22:18.566 Warning Message: No entry '.samples'.
+ 2:22:18.566 Warning Message: Size: '/' not an array
+ 2:22:18.566 Warning Message: Size: '/' not an array
+ 2:22:18.569 String "STR_CfgMagazines_Mag_CZ550_4rnd0" not found (not in localization table)
+ 2:22:18.593 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.SV98_silencerHomeMadeCloseShot_Sweetener_SoundShader'.
+ 2:22:18.593 Warning Message: No entry '.samples'.
+ 2:22:18.593 Warning Message: Size: '/' not an array
+ 2:22:18.593 Warning Message: Size: '/' not an array
+ 2:22:18.599 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.IZH18_Closure_SoundShader'.
+ 2:22:18.599 Warning Message: No entry '.samples'.
+ 2:22:18.599 Warning Message: Size: '/' not an array
+ 2:22:18.599 Warning Message: Size: '/' not an array
+ 2:22:18.603 Warning Message: No entry 'bin\config.bin/CfgSoundShaders.DesertEagleG_Closure_SoundShader'.
+ 2:22:18.603 Warning Message: No entry '.samples'.
+ 2:22:18.603 Warning Message: Size: '/' not an array
+ 2:22:18.603 Warning Message: Size: '/' not an array
+ 2:22:18.626 Warning Message: 'access/' is not a class ('EnfAnimSys' accessed)
+ 2:22:18.665 Warning: No components in dz\gear\camping\mediumtent.p3d:geometryView
+ 2:22:18.666 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometry
+ 2:22:18.666 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometryFire
+ 2:22:18.666 Warning: No components in dz\gear\camping\proxies\mediumtentcamonetproxy.p3d:geometryView
+ 2:22:18.850 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometry
+ 2:22:18.850 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometry
+ 2:22:18.850 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryFire
+ 2:22:18.850 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryFire
+ 2:22:18.850 Convex "component01" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryView
+ 2:22:18.850 Convex "component02" selection faces are less then 4 in dz\gear\camping\largetent.p3d:geometryView
+ 2:22:18.850 Warning: No components in dz\gear\camping\largetent.p3d:geometryView
+ 2:22:18.850 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity LargeTent
+ 2:22:18.920 Warning: No components in dz\gear\camping\cartent.p3d:geometryView
+ 2:22:18.922 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometry
+ 2:22:18.922 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometryFire
+ 2:22:18.922 Warning: No components in dz\gear\camping\proxies\cartentcamonetproxy.p3d:geometryView
+ 2:22:18.993 Warning: No components in dz\gear\camping\party_tent.p3d:geometryView
+ 2:22:18.993 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent
+ 2:22:18.995 Warning: No components in dz\gear\camping\proxies\partytentcamo1closedproxy.p3d:geometry
+ 2:22:18.996 Warning: No components in dz\gear\camping\proxies\partytentcamo2closedproxy.p3d:geometry
+ 2:22:18.997 Warning: No components in dz\gear\camping\proxies\partytentcamo3closedproxy.p3d:geometry
+ 2:22:18.998 Warning: No components in dz\gear\camping\proxies\partytentcamo4closedproxy.p3d:geometry
+ 2:22:18.999 Warning: No components in dz\gear\camping\proxies\partytentcamo5closedproxy.p3d:geometry
+ 2:22:19.00 Warning: No components in dz\gear\camping\proxies\partytentcamo6closedproxy.p3d:geometry
+ 2:22:19.00 Warning: No components in dz\gear\camping\proxies\partytentcamoroofproxy.p3d:geometry
+ 2:22:19.01 Warning: No components in dz\gear\camping\proxies\partytentcamo1openedproxy.p3d:geometry
+ 2:22:19.02 Warning: No components in dz\gear\camping\proxies\partytentcamo2openedproxy.p3d:geometry
+ 2:22:19.03 Warning: No components in dz\gear\camping\proxies\partytentcamo3openedproxy.p3d:geometry
+ 2:22:19.05 Warning: No components in dz\gear\camping\proxies\partytentcamo4openedproxy.p3d:geometry=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe
+== D:\SteamLibrary\steamapps\common\DayZ\DayZDiag_x64.exe /min "-mod=D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@PartyMe;K:\DayZ\ModBuilds\@FinalFrontierServerPack" "-connect=127.0.0.1" "-port=2302" "-profiles=K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile" "-name=PhantomByte" "-newErrorsAreWarnings=1"
+=====================================================================
+Exe timestamp: 2024/05/27 18:52:21
+Current time:  2024/06/01 02:22:20
+Version 1.25.158199
+=====================================================================
+
+
+ 2:22:19.05 Warning: No components in dz\gear\camping\proxies\partytentcamo5openedproxy.p3d:geometry
+ 2:22:19.05 Warning: No components in dz\gear\camping\proxies\partytentcamo6openedproxy.p3d:geometry
+ 2:22:19.09 Warning: No components in dz\gear\camping\proxies\partytentpackproxy.p3d:geometry
+ 2:22:19.09 Warning: No components in dz\gear\camping\proxies\partytentpackproxy.p3d:geometryFire
+ 2:22:19.715 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Blue
+ 2:22:20.351 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Brown
+ 2:22:20.965 DamageSystem Warning: Selection  doesn't exists in fire geometry for entity PartyTent_Lunapark
+ 2:22:21.617 Warning: No components in dz\gear\camping\proxies\roof.p3d:geometryFire
+ 2:22:21.619 Warning: No components in dz\gear\camping\proxies\camonet.p3d:geometry
+ 2:22:21.621 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted.p3d:geometry
+ 2:22:21.621 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted.p3d:geometryView
+ 2:22:21.621 Warning: No components in dz\gear\camping\proxies\barbedwire_mounted_up.p3d:geometryView
+ 2:22:21.670 DamageSystem Warning: Selection wall_gate doesn't exists in fire geometry for entity Fence
+ 2:22:21.672 Warning: No components in dz\gear\camping\proxies\gate.p3d:geometry
+ 2:22:21.672 Warning: No components in dz\gear\camping\proxies\gate.p3d:geometryView
+ 2:22:21.687 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior.p3d:geometryFire
+ 2:22:21.687 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior.p3d:geometryView
+ 2:22:21.688 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_glass2.p3d:geometryFire
+ 2:22:21.690 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver.simulation'.
+ 2:22:21.690 Warning Message: Trying to access error value.
+ 2:22:21.690 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver/
+ 2:22:21.690 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Driver.simulation'.
+ 2:22:21.690 Warning Message: Trying to access error value.
+ 2:22:21.690 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Cargo.simulation'.
+ 2:22:21.690 Warning Message: Trying to access error value.
+ 2:22:21.690 Unrecognized CfgNonAIVehicles simulation  in bin\config.bin/CfgNonAIVehicles/ProxyCrew_Cargo/
+ 2:22:21.690 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyCrew_Cargo.simulation'.
+ 2:22:21.690 Warning Message: Trying to access error value.
+ 2:22:21.995 Warning: No components in dz\vehicles\wheeled\offroadhatchback\proxy\nivaengine.p3d:geometry
+ 2:22:21.996 Warning: No components in dz\vehicles\wheeled\offroadhatchback\proxy\nivaengine.p3d:geometryView
+ 2:22:22.360 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_interior.p3d:geometry
+ 2:22:22.361 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine.p3d:geometry
+ 2:22:22.361 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine.p3d:geometryFire
+ 2:22:22.361 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine.p3d:geometryView
+ 2:22:22.640 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int.p3d:geometry
+ 2:22:22.640 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int.p3d:geometryFire
+ 2:22:22.640 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int.p3d:geometryView
+ 2:22:22.641 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\sedan_engine.p3d:geometry
+ 2:22:22.641 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\sedan_engine.p3d:geometryFire
+ 2:22:22.641 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\sedan_engine.p3d:geometryView
+ 2:22:23.65 Truck_01_Covered: Engine_Rotate - unknown animation source rpmspeed
+ 2:22:23.71 Warning: No components in dz\vehicles\wheeled\truck_01\proxy\truck_01_engine.p3d:geometry
+ 2:22:23.71 Warning: No components in dz\vehicles\wheeled\truck_01\proxy\truck_01_engine.p3d:geometryView
+ 2:22:23.72 Warning: No components in dz\vehicles\wheeled\truck_01\proxy\truck_01_engine_rotate_1.p3d:geometry
+ 2:22:23.490 Truck_01_Covered_Blue: Engine_Rotate - unknown animation source rpmspeed
+ 2:22:23.837 Truck_01_Covered_Orange: Engine_Rotate - unknown animation source rpmspeed
+ 2:22:24.172 DamageSystem Warning: Selection dmgZone_bumper_1 doesn't exists in fire geometry for entity Offroad_02
+ 2:22:24.172 Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_body.p3d:geometry
+ 2:22:24.172 Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_body.p3d:geometryFire
+ 2:22:24.172 Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_body.p3d:geometryView
+ 2:22:24.173 Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_roof.p3d:geometry
+ 2:22:24.189 Warning: No components in dz\vehicles\wheeled\offroad_02\proxy\offroad_02_engine.p3d:geometry
+ 2:22:24.695 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.25.158199)
+ 2:22:24.696 Server: SetClientState dpid=2 id=0 name=__SERVER__ CREATED -> CONNECTED
+ 2:22:24.728 Unrecognized CfgNonAIVehicles simulation freedebugcamera in bin\config.bin/CfgNonAIVehicles/FreeDebugCamera/
+ 2:22:24.791 Server: SetClientState dpid=2 id=0 name=__SERVER__ MISSION SELECTED -> PLAYER ASSIGNED
+ 2:22:24.791 Server: SetClientState dpid=2 id=0 name=__SERVER__ PLAYER ASSIGNED -> MISSION RECEIVED
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Night.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Astro1.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Astro2.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Astro3.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Nautical1.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Nautical2.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Nautical3.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Civil1.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Civil2.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Civil3.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Day0.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Day4.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Day8.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Day12.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Day16.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Day35.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/C_Day60.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Night.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Astro1.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Nautical1.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Civil1.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Civil2.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Day0.NearCloud'.
+ 2:22:24.792 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Day4.NearCloud'.
+ 2:22:24.793 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Day8.NearCloud'.
+ 2:22:24.793 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Day12.NearCloud'.
+ 2:22:24.793 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Day35.NearCloud'.
+ 2:22:24.793 Warning Message: No entry 'bin\config.bin/CfgWorlds/CAWorld/Weather/LightingNew/O_Day60.NearCloud'.
+ 2:22:24.798 Terrain normal texture loaded (dz\worlds\chernarusplus\data\global_nohq.paa)...
+ 2:22:24.798 Warning: No components in dz\plants\clutter\c_anthoxanthum.p3d:geometry
+ 2:22:24.798 Warning: No components in dz\plants\clutter\c_anthoxanthum_bended.p3d:geometry
+ 2:22:24.799 Warning: No components in dz\plants\clutter\c_calamagrostis.p3d:geometry
+ 2:22:24.799 Warning: No components in dz\plants\clutter\c_carduus.p3d:geometry
+ 2:22:24.799 Warning: No components in dz\plants\clutter\c_carduus_f.p3d:geometry
+ 2:22:24.800 Warning: No components in dz\plants\clutter\c_elytrigia.p3d:geometry
+ 2:22:24.800 Warning: No components in dz\plants\clutter\c_elytrigia_green.p3d:geometry
+ 2:22:24.800 Warning: No components in dz\plants\clutter\c_elytrigiatall.p3d:geometry
+ 2:22:24.801 Warning: No components in dz\plants\clutter\c_hypericum.p3d:geometry
+ 2:22:24.801 Warning: No components in dz\plants\clutter\c_hypericum_f.p3d:geometry
+ 2:22:24.801 Warning: No components in dz\plants\clutter\c_lolium.p3d:geometry
+ 2:22:24.802 Warning: No components in dz\plants\clutter\c_taraxacum.p3d:geometry
+ 2:22:24.802 Warning: No components in dz\plants\clutter\c_concretegrass_bunch.p3d:geometry
+ 2:22:24.802 Warning: No components in dz\plants\clutter\c_dirtgrass_bunch.p3d:geometry
+ 2:22:24.802 Warning: No components in dz\plants\clutter\c_elytrigiadirt.p3d:geometry
+ 2:22:24.802 Warning: No components in dz\plants\clutter\c_cones.p3d:geometry
+ 2:22:24.803 Warning: No components in dz\plants\clutter\c_elytrigiaforest.p3d:geometry
+ 2:22:24.803 Warning: No components in dz\plants\clutter\c_leafs_spread.p3d:geometry
+ 2:22:24.803 Warning: No components in dz\plants\clutter\c_undergrowth.p3d:geometry
+ 2:22:24.804 Warning: No components in dz\plants\clutter\c_undergrowth_red.p3d:geometry
+ 2:22:24.804 Warning: No components in dz\plants\clutter\c_broadleaf_sprouts.p3d:geometry
+ 2:22:24.804 Warning: No components in dz\plants\clutter\c_broadleaf_sprouts_tall.p3d:geometry
+ 2:22:24.804 Warning: No components in dz\plants\clutter\c_pines.p3d:geometry
+ 2:22:24.805 Warning: No components in dz\plants\clutter\c_polypodiophyta.p3d:geometry
+ 2:22:24.805 Warning: No components in dz\plants\clutter\c_polypodiophyta_b.p3d:geometry
+ 2:22:24.807 Warning: No components in dz\plants\clutter\c_polypodiophyta_c.p3d:geometry
+ 2:22:24.808 Warning: No components in dz\plants\clutter\c_polypodiophyta_tall.p3d:geometry
+ 2:22:24.808 Warning: No components in dz\plants\clutter\c_vaccinium.p3d:geometry
+ 2:22:24.808 Warning: No components in dz\plants\clutter\c_vaccinium_green.p3d:geometry
+ 2:22:24.809 Warning: No components in dz\plants\clutter\c_vaccinium_red.p3d:geometry
+ 2:22:24.809 Warning: No components in dz\plants\clutter\c_vaccinium_tall.p3d:geometry
+ 2:22:24.809 Warning: No components in dz\plants\clutter\c_twigs.p3d:geometry
+ 2:22:24.809 Warning: No components in dz\plants\clutter\c_twigs_b.p3d:geometry
+ 2:22:24.810 Warning: No components in dz\plants_bliss\clutter\c_wheat1_summer.p3d:geometry
+ 2:22:24.810 Warning: No components in dz\plants_bliss\clutter\c_stubble_summer.p3d:geometry
+ 2:22:24.811 Warning: No components in dz\plants_bliss\clutter\c_vaccinium_summer.p3d:geometry
+ 2:22:24.811 Warning: No components in dz\plants_bliss\clutter\c_fern_summer.p3d:geometry
+ 2:22:24.811 Warning: No components in dz\plants_bliss\clutter\c_ferntall_summer.p3d:geometry
+ 2:22:24.812 Warning: No components in dz\plants_bliss\clutter\c_branches_picea_summer.p3d:geometry
+ 2:22:24.812 Warning: No components in dz\plants_bliss\clutter\c_branchesbig_picea_summer.p3d:geometry
+ 2:22:24.816 Warning: No components in dz\plants_bliss\clutter\c_branches_deciduous_summer.p3d:geometry
+ 2:22:24.817 Warning: No components in dz\plants_bliss\clutter\c_pines_summer.p3d:geometry
+ 2:22:24.817 Warning: No components in dz\plants_bliss\clutter\c_cones_summer.p3d:geometry
+ 2:22:24.818 Warning: No components in dz\plants_bliss\clutter\c_leaves_dead_summer.p3d:geometry
+ 2:22:24.818 Warning: No components in dz\plants_bliss\clutter\c_leaves_dead_half_summer.p3d:geometry
+ 2:22:24.818 Warning: No components in dz\plants_bliss\clutter\c_plantssmall1_summer.p3d:geometry
+ 2:22:24.819 Warning: No components in dz\plants_bliss\clutter\c_plantssmall2_summer.p3d:geometry
+ 2:22:24.820 Warning: No components in dz\plants_bliss\clutter\c_grasssmall_summer.p3d:geometry
+ 2:22:24.820 Warning: No components in dz\plants_bliss\clutter\c_grasstiny_summer.p3d:geometry
+ 2:22:24.820 Warning: No components in dz\plants_bliss\clutter\c_beech_big_summer.p3d:geometry
+ 2:22:24.820 Warning: No components in dz\plants_bliss\clutter\c_beech_mid_summer.p3d:geometry
+ 2:22:24.820 Warning: No components in dz\plants_bliss\clutter\c_beech_small_summer.p3d:geometry
+ 2:22:24.821 Warning: No components in dz\plants_bliss\clutter\c_grassplant1_summer.p3d:geometry
+ 2:22:24.821 Warning: No components in dz\plants_bliss\clutter\c_grassplant2_summer.p3d:geometry
+ 2:22:24.821 Warning: No components in dz\plants_bliss\clutter\c_grass_summer.p3d:geometry
+ 2:22:24.821 Warning: No components in dz\plants_bliss\clutter\c_grasslow_summer.p3d:geometry
+ 2:22:24.821 Warning: No components in dz\plants_bliss\clutter\c_grassanthoxanthum_summer.p3d:geometry
+ 2:22:24.822 Warning: No components in dz\plants_bliss\clutter\c_grassanthoxanthum_bended_summer.p3d:geometry
+ 2:22:24.822 Warning: No components in dz\plants_bliss\clutter\c_grasstall2_summer.p3d:geometry
+ 2:22:24.822 Warning: No components in dz\plants_bliss\clutter\c_grasstall3_summer.p3d:geometry
+ 2:22:24.822 Warning: No components in dz\plants_bliss\clutter\c_grass_flower1_summer.p3d:geometry
+ 2:22:24.823 Warning: No components in dz\plants_bliss\clutter\c_grassdry_summer.p3d:geometry
+ 2:22:24.823 Warning: No components in dz\plants_bliss\clutter\c_grassdry2_summer.p3d:geometry
+ 2:22:24.823 Warning: No components in dz\plants_bliss\clutter\c_grassdry3_summer.p3d:geometry
+ 2:22:24.823 Warning: No components in dz\plants_bliss\clutter\c_grassdryplant1_summer.p3d:geometry
+ 2:22:24.824 Warning: No components in dz\plants_bliss\clutter\c_grassdrytall_summer.p3d:geometry
+ 2:22:24.824 Warning: No components in dz\plants_bliss\clutter\c_grassdrytall2_summer.p3d:geometry
+ 2:22:24.824 Warning: No components in dz\plants_bliss\clutter\c_grassbasehypericum_summer.p3d:geometry
+ 2:22:24.824 Warning: No components in dz\plants_bliss\clutter\c_grassbasecarduus_f_summer.p3d:geometry
+ 2:22:24.824 Warning: No components in dz\plants_bliss\clutter\c_grassdryhypericum_summer.p3d:geometry
+ 2:22:24.824 Warning: No components in dz\plants_bliss\clutter\c_grassdrycarduus_f_summer.p3d:geometry
+ 2:22:24.824 Warning: No components in dz\plants_bliss\clutter\c_grasscrophypericum_summer.p3d:geometry
+ 2:22:24.825 Warning: No components in dz\plants_bliss\clutter\c_grasscropcarduus_f_summer.p3d:geometry
+ 2:22:24.825 Warning: No components in dz\plants_bliss\clutter\c_grassdrytall3_summer.p3d:geometry
+ 2:22:24.825 Warning: No components in dz\plants_bliss\clutter\c_grasssmallconc_summer.p3d:geometry
+ 2:22:24.825 Warning: No components in dz\plants_bliss\clutter\c_grasstinyconc_summer.p3d:geometry
+ 2:22:24.825 Warning: No components in dz\plants_bliss\clutter\c_elytrigia_summer.p3d:geometry
+ 2:22:24.826 Warning: No components in dz\plants_bliss\clutter\c_elytrigia_green_summer.p3d:geometry
+ 2:22:24.826 Warning: No components in dz\plants_bliss\clutter\c_elytrigiatall_summer.p3d:geometry
+ 2:22:24.826 Warning: No components in dz\plants_bliss\clutter\c_elytrigiatall2_summer.p3d:geometry
+ 2:22:24.827 Warning: No components in dz\plants_bliss\clutter\c_grassflowerswhite_summer.p3d:geometry
+ 2:22:24.827 Warning: No components in dz\plants_bliss\clutter\c_grassflowerswhiteshort_summer.p3d:geometry
+ 2:22:24.827 Warning: No components in dz\plants_bliss\clutter\c_grassflowerswhitetall_summer.p3d:geometry
+ 2:22:24.828 Warning: No components in dz\plants_bliss\clutter\c_grassflowersyellow_summer.p3d:geometry
+ 2:22:24.828 Warning: No components in dz\plants_bliss\clutter\c_grassflowersyellowshort_summer.p3d:geometry
+ 2:22:24.828 Warning: No components in dz\plants_bliss\clutter\c_grassflowersyellowtall_summer.p3d:geometry
+ 2:22:24.829 Warning: No components in dz\plants_bliss\clutter\c_grassflowerspurple_summer.p3d:geometry
+ 2:22:24.829 Warning: No components in dz\plants_bliss\clutter\c_grassflowerspurpleshort_summer.p3d:geometry
+ 2:22:24.829 Warning: No components in dz\plants_bliss\clutter\c_grassflowerspurpletall_summer.p3d:geometry
+ 2:22:24.829 Warning: No components in dz\plants_bliss\clutter\c_wheat2.p3d:geometry
+ 2:22:24.830 Warning: No components in dz\plants_bliss\clutter\c_concretegrass_bunch_summer.p3d:geometry
+ 2:22:24.830 Warning: No components in dz\plants_bliss\clutter\c_dirtgrass_bunch_summer.p3d:geometry
+ 2:22:24.830 Warning: No components in dz\plants_bliss\clutter\c_elytrigiadirt_summer.p3d:geometry
+ 2:22:24.843 Warning Message: No entry 'bin\config.bin/CfgWorlds/ChernarusPlus.nearCloudObject'.
+ 2:22:24.843 Warning Message: Trying to access error value.
+ 2:22:24.854 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.855 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.857 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.858 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.859 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.860 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.861 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.863 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.863 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.864 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:24.865 RESOURCES (E): IRenderer::CreateTextureFromImage(gui/fonts/MetronBook-Bold28.edds) failed
+
+ 2:22:25.273 Warning: No components in dz\structures\roads\parts\asf1_25.p3d:geometry
+ 2:22:25.273 Warning: No components in dz\structures\roads\parts\asf1_6konec.p3d:geometry
+ 2:22:25.274 Warning: No components in dz\structures\roads\parts\mud_25.p3d:geometry
+ 2:22:25.274 Warning: No components in dz\structures\roads\parts\mud_7 100.p3d:geometry
+ 2:22:25.274 Warning: No components in dz\structures\roads\parts\mud_6konec.p3d:geometry
+ 2:22:25.274 Warning: No components in dz\structures\roads\parts\mud_10 25.p3d:geometry
+ 2:22:25.275 Warning: No components in dz\structures\roads\parts\asf1_10 100.p3d:geometry
+ 2:22:25.275 Warning: No components in dz\structures\roads\parts\mud_12.p3d:geometry
+ 2:22:25.275 Warning: No components in dz\structures\roads\parts\mud_10 100.p3d:geometry
+ 2:22:25.275 Warning: No components in dz\structures\roads\parts\path_rock_curve.p3d:geometry
+ 2:22:25.275 Warning: No components in dz\structures\roads\parts\path_rock_30.p3d:geometry
+ 2:22:25.275 Warning: No components in dz\structures\roads\parts\mud_10 75.p3d:geometry
+ 2:22:25.275 Warning: No components in dz\structures\roads\parts\mud_10 50.p3d:geometry
+ 2:22:25.276 Warning: No components in dz\structures\roads\parts\mud_1 1000.p3d:geometry
+ 2:22:25.276 Warning: No components in dz\structures\roads\parts\mud_60 10.p3d:geometry
+ 2:22:25.276 Warning: No components in dz\structures\roads\parts\mud_6.p3d:geometry
+ 2:22:25.276 Warning: No components in dz\structures\roads\parts\asf1_10 75.p3d:geometry
+ 2:22:25.276 Warning: No components in dz\structures\roads\parts\asf1_12.p3d:geometry
+ 2:22:25.276 Warning: No components in dz\structures\roads\parts\grav_60 10.p3d:geometry
+ 2:22:25.277 Warning: No components in dz\structures\roads\parts\grav_12.p3d:geometry
+ 2:22:25.277 Warning: No components in dz\structures\roads\parts\grav_10 100.p3d:geometry
+ 2:22:25.277 Warning: No components in dz\structures\roads\parts\grav_10 50.p3d:geometry
+ 2:22:25.277 Warning: No components in dz\structures\roads\parts\grav_10 25.p3d:geometry
+ 2:22:25.280 Warning: No components in dz\structures\roads\parts\grav_6.p3d:geometry
+ 2:22:25.280 Warning: No components in dz\structures\roads\parts\grav_25.p3d:geometry
+ 2:22:25.280 Warning: No components in dz\structures\roads\parts\grav_7 100.p3d:geometry
+ 2:22:25.280 Warning: No components in dz\structures\roads\parts\asf1_7 100.p3d:geometry
+ 2:22:25.280 Warning: No components in dz\structures\roads\parts\mud_22 50.p3d:geometry
+ 2:22:25.280 Warning: No components in dz\structures\roads\parts\mud_15 75.p3d:geometry
+ 2:22:25.280 Warning: No components in dz\structures\roads\parts\asf1_1 1000.p3d:geometry
+ 2:22:25.281 Warning: No components in dz\structures\roads\parts\grav_1 1000.p3d:geometry
+ 2:22:25.281 Warning: No components in dz\structures\roads\parts\grav_6konec.p3d:geometry
+ 2:22:25.281 Warning: No components in dz\structures\roads\parts\grav_10 75.p3d:geometry
+ 2:22:25.281 Warning: No components in dz\structures\roads\parts\mud_30 25.p3d:geometry
+ 2:22:25.282 Warning: No components in dz\structures\roads\parts\asf1_6.p3d:geometry
+ 2:22:25.282 Warning: No components in dz\structures\roads\parts\asf1_0 2000.p3d:geometry
+ 2:22:25.283 Warning: No components in dz\structures\roads\parts\path_dirt_curve.p3d:geometry
+ 2:22:25.283 Warning: No components in dz\structures\roads\parts\path_dirt_10.p3d:geometry
+ 2:22:25.283 Warning: No components in dz\structures\roads\parts\path_dirt_30.p3d:geometry
+ 2:22:25.284 Warning: No components in dz\structures\roads\parts\mud_0 2000.p3d:geometry
+ 2:22:25.284 Warning: No components in dz\structures\roads\parts\asf1_15 75.p3d:geometry
+ 2:22:25.286 Warning: No components in dz\structures\roads\parts\asf3_25.p3d:geometry
+ 2:22:25.286 Warning: No components in dz\structures\roads\parts\asf3_60 10.p3d:geometry
+ 2:22:25.286 Warning: No components in dz\structures\roads\parts\asf3_6konec.p3d:geometry
+ 2:22:25.286 Warning: No components in dz\structures\roads\parts\asf3_6.p3d:geometry
+ 2:22:25.286 Warning: No components in dz\structures\roads\parts\asf3_10 25.p3d:geometry
+ 2:22:25.288 Warning: No components in dz\structures\roads\parts\asf3_7 100.p3d:geometry
+ 2:22:25.291 Warning: No components in dz\structures\roads\parts\asf3_12.p3d:geometry
+ 2:22:25.292 Warning: No components in dz\structures\roads\parts\asf3_10 50.p3d:geometry
+ 2:22:25.293 Warning: No components in dz\structures\roads\parts\asf2_6konec.p3d:geometry
+ 2:22:25.293 Warning: No components in dz\structures\roads\parts\asf1_22 50.p3d:geometry
+ 2:22:25.293 Warning: No components in dz\structures\roads\parts\asf1_10 50.p3d:geometry
+ 2:22:25.294 Warning: No components in dz\structures\roads\parts\asf3_10 100.p3d:geometry
+ 2:22:25.294 Warning: No components in dz\structures\roads\parts\asf2_0 2000.p3d:geometry
+ 2:22:25.294 Warning: No components in dz\structures\roads\parts\asf2_7 100.p3d:geometry
+ 2:22:25.294 Warning: No components in dz\structures\roads\parts\asf2_1 1000.p3d:geometry
+ 2:22:25.294 Warning: No components in dz\structures\roads\parts\asf2_6.p3d:geometry
+ 2:22:25.295 Warning: No components in dz\structures\roads\parts\asf2_15 75.p3d:geometry
+ 2:22:25.295 Warning: No components in dz\structures\roads\parts\asf2_12.p3d:geometry
+ 2:22:25.298 Warning: No components in dz\structures\roads\parts\asf3_1 1000.p3d:geometry
+ 2:22:25.299 Warning: No components in dz\structures\roads\parts\path_rock_10.p3d:geometry
+ 2:22:25.300 Warning: No components in dz\structures\roads\parts\asf1_10 25.p3d:geometry
+ 2:22:25.300 Warning: No components in dz\structures\roads\parts\asf3_10 75.p3d:geometry
+ 2:22:25.301 Warning: No components in dz\structures\roads\parts\asf2_10 100.p3d:geometry
+ 2:22:25.301 Warning: No components in dz\structures\roads\parts\asf2_22 50.p3d:geometry
+ 2:22:25.302 Warning: No components in dz\structures\roads\parts\asf2_25.p3d:geometry
+ 2:22:25.302 Warning: No components in dz\structures\roads\parts\asf2_30 25.p3d:geometry
+ 2:22:25.302 Warning: No components in dz\structures\roads\parts\asf2_10 25.p3d:geometry
+ 2:22:25.303 Warning: No components in dz\structures\roads\parts\asf3_30 25.p3d:geometry
+ 2:22:25.303 Warning: No components in dz\structures\roads\parts\asf2_60 10.p3d:geometry
+ 2:22:25.303 Warning: No components in dz\structures\roads\parts\asf2_10 50.p3d:geometry
+ 2:22:25.303 Warning: No components in dz\structures\roads\parts\grav_15 75.p3d:geometry
+ 2:22:25.304 Warning: No components in dz\structures\roads\parts\kr_t_asf2_asf3.p3d:geometry
+ 2:22:25.304 Warning: No components in dz\structures\roads\parts\kr_t_asf2_asf2.p3d:geometry
+ 2:22:25.304 Warning: No components in dz\structures\roads\parts\grav_22 50.p3d:geometry
+ 2:22:25.304 Warning: No components in dz\structures\roads\parts\asf3_15 75.p3d:geometry
+ 2:22:25.305 Warning: No components in dz\structures\roads\parts\kr_t_asf3_asf3.p3d:geometry
+ 2:22:25.305 Warning: No components in dz\structures\roads\parts\asf3_0 2000.p3d:geometry
+ 2:22:25.305 Warning: No components in dz\structures\roads\parts\asf3_22 50.p3d:geometry
+ 2:22:25.305 Warning: No components in dz\structures\roads\parts\grav_0 2000.p3d:geometry
+ 2:22:25.307 Warning: No components in dz\structures\roads\parts\kr_t_asf1_asf3.p3d:geometry
+ 2:22:25.307 Warning: No components in dz\structures\roads\parts\grav_30 25.p3d:geometry
+ 2:22:25.309 Warning: No components in dz\structures\roads\parts\asf1_30 25.p3d:geometry
+ 2:22:25.310 Warning: No components in dz\structures\roads\parts\asf2_10 75.p3d:geometry
+ 2:22:25.313 Warning: No components in dz\structures\roads\parts\kr_x_asf2_asf3.p3d:geometry
+ 2:22:25.317 Warning: No components in dz\structures\roads\parts\city_25.p3d:geometry
+ 2:22:25.317 Warning: No components in dz\structures\roads\parts\city_12.p3d:geometry
+ 2:22:25.317 Warning: No components in dz\structures\roads\parts\city_6konec.p3d:geometry
+ 2:22:25.317 Warning: No components in dz\structures\roads\parts\city_6.p3d:geometry
+ 2:22:25.318 Warning: No components in dz\structures\roads\parts\kr_x_city_city.p3d:geometry
+ 2:22:25.318 Warning: No components in dz\structures\roads\parts\city_1 1000.p3d:geometry
+ 2:22:25.319 Warning: No components in dz\structures\roads\parts\kr_t_asf1_asf2.p3d:geometry
+ 2:22:25.322 Warning: No components in dz\structures\roads\parts\taxiway_30 25.p3d:geometry
+ 2:22:25.322 Warning: No components in dz\structures\roads\parts\taxiway_6.p3d:geometry
+ 2:22:25.323 Warning: No components in dz\structures\roads\parts\taxiway_25.p3d:geometry
+ 2:22:25.323 Warning: No components in dz\structures\roads\parts\taxiway_12.p3d:geometry
+ 2:22:25.324 Warning: No components in dz\structures\roads\decals\decal_concrete_panels.p3d:geometry
+ 2:22:25.324 Warning: No components in dz\structures\roads\decals\decal_concrete_panels_end1.p3d:geometry
+ 2:22:25.324 Warning: No components in dz\structures\roads\decals\decal_concrete_panels_end2.p3d:geometry
+ 2:22:25.324 Warning: No components in dz\structures\roads\parts\taxiway_6konec.p3d:geometry
+ 2:22:25.325 Warning: No components in dz\structures\roads\parts\taxiway_10 50.p3d:geometry
+ 2:22:25.325 Warning: No components in dz\structures\roads\parts\centerline_6konec.p3d:geometry
+ 2:22:25.325 Warning: No components in dz\structures\roads\parts\centerline_6.p3d:geometry
+ 2:22:25.325 Warning: No components in dz\structures\roads\parts\centerline_12.p3d:geometry
+ 2:22:25.326 Warning: No components in dz\structures\roads\parts\taxiway_10 25.p3d:geometry
+ 2:22:25.327 Warning: No components in dz\structures\roads\parts\taxiway_0 2000.p3d:geometry
+ 2:22:25.328 Warning: No components in dz\structures\roads\parts\taxiway_1 1000.p3d:geometry
+ 2:22:25.328 Warning: No components in dz\structures\roads\parts\kr_x_asf1_asf3.p3d:geometry
+ 2:22:25.329 Warning: No components in dz\structures\roads\parts\taxiway_22 50.p3d:geometry
+ 2:22:25.329 Warning: No components in dz\structures\roads\parts\taxiway_7 100.p3d:geometry
+ 2:22:25.331 Warning: No components in dz\structures\roads\parts\taxiway_60 10.p3d:geometry
+ 2:22:25.331 Warning: No components in dz\structures\roads\parts\taxiway_10 100.p3d:geometry
+ 2:22:25.331 Warning: No components in dz\structures\roads\parts\taxiway_10 75.p3d:geometry
+ 2:22:25.335 Warning: No components in dz\structures\roads\parts\city_7 100.p3d:geometry
+ 2:22:25.335 Warning: No components in dz\structures\roads\parts\kr_t_city_city.p3d:geometry
+ 2:22:25.336 Warning: No components in dz\structures\roads\parts\city_10 25.p3d:geometry
+ 2:22:25.336 Warning: No components in dz\structures\roads\parts\city_60 10.p3d:geometry
+ 2:22:25.337 Warning: No components in dz\structures\roads\parts\city_30 25.p3d:geometry
+ 2:22:25.337 Warning: No components in dz\structures\roads\parts\city_10 50.p3d:geometry
+ 2:22:25.337 Warning: No components in dz\structures\roads\parts\city_10 100.p3d:geometry
+ 2:22:25.338 Warning: No components in dz\structures\roads\parts\city_10 75.p3d:geometry
+ 2:22:25.343 Warning: No components in dz\structures\roads\parts\city_15 75.p3d:geometry
+ 2:22:25.344 Warning: No components in dz\structures\roads\parts\city_0 2000.p3d:geometry
+ 2:22:25.344 Warning: No components in dz\structures\roads\parts\city_22 50.p3d:geometry
+ 2:22:25.353 Warning: No components in dz\structures\roads\parts\asf1_60 10.p3d:geometry
+ 2:22:25.353 Warning: No components in dz\structures\roads\parts\kr_t_asf1_city.p3d:geometry
+ 2:22:25.365 Warning: No components in dz\structures\roads\parts\kr_t_city_asf3.p3d:geometry
+ 2:22:25.366 Warning: No components in dz\structures\roads\parts\kr_x_asf1_city.p3d:geometry
+ 2:22:25.366 Warning: No components in dz\structures\roads\parts\kr_x_city_city_asf3.p3d:geometry
+ 2:22:25.398 Warning Message: unable to load doorCarWreckRattle from CfgActionSounds
+ 2:22:25.400 Warning: No components in dz\structures\roads\decals\decal_damage_long2.p3d:geometry
+ 2:22:25.415 Warning: No components in dz\structures\industrial\misc\misc_pallets1.p3d:geometry
+ 2:22:25.417 PerfWarning: Way too much components (560) in dz\structures\industrial\power\power_station.p3d:geometryFire
+ 2:22:25.421 Warning: No components in dz\structures\industrial\cementworks\proxy\ground_garbage_square7_fix.p3d:geometry
+ 2:22:25.421 Warning: No components in dz\structures\industrial\cementworks\proxy\ground_garbage_long_fix.p3d:geometry
+ 2:22:25.421 Warning: No components in dz\structures\furniture\lighting\fluor_lamp\fluor_lamp.p3d:geometry
+ 2:22:25.425 PerfWarning: Way too much components (564) in dz\structures\military\houses\mil_barracks5.p3d:geometryFire
+ 2:22:25.437 Warning: No components in dz\structures\residential\misc\garbage_groundsq_3m.p3d:geometry
+ 2:22:25.437 Warning: No components in dz\structures\residential\misc\garbage_pile2.p3d:geometry
+ 2:22:25.438 Warning: No components in dz\structures\residential\misc\garbage_pile3.p3d:geometry
+ 2:22:25.441 Unknown hit sound type in dz\data\data\penetration\weaponLift.bisurf.soundHit
+ 2:22:25.441 Warning: No components in dz\structures\walls\wall_fen2_6.p3d:geometryView
+ 2:22:25.445 DamageSystem Warning: Selection doors5 doesn't exists in fire geometry for entity Land_Mil_Barracks4
+ 2:22:25.447 Warning: No components in dz\plants\clutter\p_heracleum.p3d:geometry
+ 2:22:25.459 Warning: No components in dz\structures\residential\misc\garbage_groundsq_5m.p3d:geometry
+ 2:22:25.473 Warning: No components in dz\structures\specific\prison\proxy\prison_sidebuilding_windowsmall.p3d:geometry
+ 2:22:25.500 PerfWarning: Way too much components (948) in dz\structures\specific\prison\prison_wall_large.p3d:geometryFire
+ 2:22:25.523 Warning: No components in dz\structures\residential\misc\garbage_ground_6m.p3d:geometry
+ 2:22:25.538 Warning: No components in dz\structures\furniture\lighting\light_kitchen_03\light_kitchen_03.p3d:geometry
+ 2:22:25.538 Warning: No components in dz\structures\residential\misc\lamp_city1.p3d:geometryView
+ 2:22:25.544 Warning: No components in dz\structures\walls\wall_fenr_pole.p3d:geometryView
+ 2:22:25.547 DamageSystem Warning: Selection doors6 doesn't exists in fire geometry for entity Land_House_2B01
+ 2:22:25.566 Convex "component117" selection faces are less then 4 in dz\structures\residential\houses\house_1w08.p3d:geometryView
+ 2:22:25.566 Convex "component120" selection faces are less then 4 in dz\structures\residential\houses\house_1w08.p3d:geometryView
+ 2:22:25.567 Warning: No components in dz\structures\residential\misc\misc_boundarystone_plastic.p3d:geometry
+ 2:22:25.589 DamageSystem Warning: Selection doors2 doesn't exists in fire geometry for entity Land_Wall_Gate_FenG_Open
+ 2:22:25.591 DamageSystem Warning: Selection doors3 doesn't exists in fire geometry for entity Land_Wall_Gate_FenG_Big
+ 2:22:25.606 Warning: No components in dz\structures\residential\misc\lamp_city1_amp.p3d:geometryView
+ 2:22:25.628 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_interior_aban.p3d:geometry
+ 2:22:25.631 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int_aban_3.p3d:geometry
+ 2:22:25.642 Warning: No components in dz\structures\signs\misc\sign_decal_pubcz3.p3d:geometry
+ 2:22:25.654 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior_old.p3d:geometryFire
+ 2:22:25.654 Warning: No components in dz\vehicles\wheeled\sedan_02\proxy\sedan_02_interior_old.p3d:geometryView
+ 2:22:25.690 Convex "component34" selection faces are less then 4 in dz\structures\residential\houses\house_1w11.p3d:geometry
+ 2:22:25.712 Warning: No components in dz\plants\clutter\p_articum.p3d:geometry
+ 2:22:25.712 Warning: No components in dz\plants\clutter\p_urtica.p3d:geometry
+ 2:22:25.717 Warning: No components in dz\plants\clutter\l_large_pile.p3d:geometry
+ 2:22:25.717 Warning: No components in dz\plants\clutter\l_long_pile_a.p3d:geometry
+ 2:22:25.717 Warning: No components in dz\plants\clutter\l_plane.p3d:geometry
+ 2:22:25.717 Warning: No components in dz\plants\clutter\l_plane_long.p3d:geometry
+ 2:22:25.717 Warning: No components in dz\plants\clutter\l_long_pile_b.p3d:geometry
+ 2:22:25.731 PerfWarning: Way too much components (534) in dz\structures\specific\churches\church2_2.p3d:geometryFire
+ 2:22:25.734 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:25.755 Warning: No components in dz\structures\residential\misc\misc_boundarystone.p3d:geometry
+ 2:22:25.755 Warning: No components in dz\structures\wrecks\vehicles\wreck_decal_small1.p3d:geometry
+ 2:22:25.764 Warning: No components in dz\vehicles\wheeled\civiliansedan\proxy\prox_int_aban_1.p3d:geometry
+ 2:22:25.774 Warning: No components in dz\structures\residential\misc\misc_carousel_small.p3d:geometryView
+ 2:22:25.774 Warning: No components in dz\structures\residential\misc\misc_sandbox.p3d:geometry
+ 2:22:25.774 Warning: No components in dz\structures\residential\misc\misc_seesaw.p3d:geometryFire
+ 2:22:25.774 Warning: No components in dz\structures\residential\misc\misc_seesaw.p3d:geometryView
+ 2:22:25.782 PerfWarning: Way too much components (647) in dz\structures\residential\tenements\tenement_small.p3d:geometryFire
+ 2:22:25.803 Warning: No components in dz\structures\residential\misc\lamp_city3.p3d:geometryView
+ 2:22:25.808 Warning: No components in dz\structures\ruins\rubble_glass.p3d:geometry
+ 2:22:25.809 Warning: No components in dz\structures\walls\wall_railing_2.p3d:geometryView
+ 2:22:25.820 Warning: No components in dz\structures\roads\decals\decal_crosswalk.p3d:geometry
+ 2:22:25.833 Warning: No components in dz\structures\walls\wall_woodf_5.p3d:geometryView
+ 2:22:25.833 Warning: No components in dz\structures\walls\wall_woodf_5_end.p3d:geometryView
+ 2:22:25.839 Warning: No components in dz\structures\residential\misc\misc_haystack.p3d:geometryFire
+ 2:22:25.839 Warning: No components in dz\structures\residential\misc\misc_haystack.p3d:geometryView
+ 2:22:25.842 Warning: No components in dz\structures\roads\decals\decal_manhole.p3d:geometry
+ 2:22:25.842 Warning: No components in dz\structures\roads\decals\decal_manhole3.p3d:geometry
+ 2:22:25.844 Warning: No components in dz\structures\residential\misc\lamp_city2.p3d:geometryView
+ 2:22:25.844 Warning: No components in dz\structures\residential\misc\misc_boundarystone_tube.p3d:geometry
+ 2:22:25.849 Warning: No components in dz\structures\roads\sidewalks\sidewalk3_wide_corner.p3d:geometry
+ 2:22:25.850 Warning: No components in dz\structures\ruins\rubble_bricks1.p3d:geometry
+ 2:22:25.865 Warning: No components in dz\structures\specific\hotel\proxy\houseb_tenement_dayz_proxy.p3d:geometry
+ 2:22:25.874 Convex "component81" selection faces are less then 4 in dz\structures\residential\houses\house_2w02.p3d:geometryView
+ 2:22:25.875 Warning: No components in dz\structures\furniture\decoration\carpet_big\carpet_big.p3d:geometry
+ 2:22:25.891 Warning: No components in dz\structures\walls\wall_railing_endl.p3d:geometryView
+ 2:22:25.903 Warning: No components in dz\structures\furniture\various\boots_dz.p3d:geometry
+ 2:22:25.904 Warning: No components in dz\structures\furniture\various\sawhorse_dz.p3d:geometryView
+ 2:22:25.908 Warning: No components in dz\structures\roads\sidewalks\sidewalk3_narrow_4m.p3d:geometry
+ 2:22:25.908 Warning: No components in dz\structures\walls\wall_railing_2_slope.p3d:geometryView
+ 2:22:25.928 PerfWarning: Way too much components (804) in dz\structures\residential\offices\office_municipal1.p3d:geometryFire
+ 2:22:25.933 DamageSystem Warning: Selection doors6 doesn't exists in fire geometry for entity Land_HouseBlock_2F8
+ 2:22:25.945 Warning: No components in dz\structures\residential\misc\misc_trafficlights.p3d:geometryView
+ 2:22:25.945 Warning: No components in dz\structures\furniture\various\carpet_2_dz.p3d:geometry
+ 2:22:25.955 Warning: No components in dz\structures\industrial\misc\lamp_ind.p3d:geometryView
+ 2:22:25.956 Warning: No components in dz\structures\military\misc\misc_obstacle_runaround.p3d:geometryView
+ 2:22:25.970 PerfWarning: Way too much components (804) in dz\structures\residential\police\city_policestation.p3d:geometryFire
+ 2:22:25.972 Warning: No components in dz\structures\wrecks\vehicles\wreck_decal_small2.p3d:geometry
+ 2:22:25.973 Warning: No components in dz\structures\furniture\school_equipment\wall_hanger.p3d:geometry
+ 2:22:25.973 Warning: No components in dz\structures\furniture\school_equipment\intercom_speaker.p3d:geometry
+ 2:22:25.973 Warning: No components in dz\structures\furniture\school_equipment\school_ringbell.p3d:geometry
+ 2:22:25.973 Warning: No components in dz\structures\furniture\school_equipment\yellow_star.p3d:geometry
+ 2:22:25.975 Warning: No components in dz\structures\furniture\school_equipment\tac_board.p3d:geometry
+ 2:22:25.980 DamageSystem Warning: Selection doors5 doesn't exists in fire geometry for entity Land_HouseBlock_1F4
+ 2:22:25.980 DamageSystem Warning: Selection doors5 doesn't exists in fire geometry for entity Land_HouseBlock_1F3
+ 2:22:25.981 Warning Message: unable to load doorCarSmallRattle from CfgActionSounds
+ 2:22:25.992 Warning: No components in dz\water\ponds\pond_50x50.p3d:geometry
+ 2:22:25.999 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:25.999 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:25.999 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:25.999 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:26.01 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:26.01 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:26.01 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:26.09 Warning: No components in dz\structures\furniture\various\vise.p3d:geometry
+ 2:22:26.09 Warning: No components in dz\structures_bliss\ruins\proxy\carpet_big_dirty.p3d:geometry
+ 2:22:26.09 Warning: No components in dz\structures_bliss\ruins\proxy\carpet_big_dirty.p3d:geometryView
+ 2:22:26.10 Warning: No components in dz\structures_bliss\ruins\proxy\bed_large_metal.p3d:geometryView
+ 2:22:26.38 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:26.38 Warn: Shape '???' contains water texture however it does not carry a property "class=pond". Consider creating one to speed up the detection!
+ 2:22:26.61 Warning: No components in dz\structures\roads\decals\decal_damage_long4.p3d:geometry
+ 2:22:26.63 Warning: No components in dz\structures\walls\wall_woodf_5_2.p3d:geometryView
+ 2:22:26.64 Warning: No components in dz\structures\roads\decals\decal_damage_long1.p3d:geometry
+ 2:22:26.70 Warning: No components in dz\structures_bliss\ruins\proxy\carpet_big_dirty2.p3d:geometry
+ 2:22:26.70 Warning: No components in dz\structures_bliss\ruins\proxy\carpet_big_dirty2.p3d:geometryView
+ 2:22:26.95 Warning: No components in dz\structures\roads\decals\decal_damage_long3.p3d:geometry
+ 2:22:26.100 PerfWarning: Way too much components (628) in dz\structures\ruins\rubble_dirtpile_medium2.p3d:geometryFire
+ 2:22:26.123 Convex "component117" selection faces are less then 4 in dz\structures\residential\houses\house_1w08_brown.p3d:geometryView
+ 2:22:26.123 Convex "component120" selection faces are less then 4 in dz\structures\residential\houses\house_1w08_brown.p3d:geometryView
+ 2:22:26.127 SW keep height animation used for dz\structures\residential\misc\misc_football_line.p3d
+ 2:22:26.127 Warning: No components in dz\structures\residential\misc\misc_football_line.p3d:geometry
+ 2:22:26.129 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_10m.p3d:geometry
+ 2:22:26.129 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_end.p3d:geometry
+ 2:22:26.137 Warning Message: unable to load doorWoodRattle from CfgActionSounds
+ 2:22:26.142 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_1m.p3d:geometry
+ 2:22:26.142 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_5m.p3d:geometry
+ 2:22:26.142 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_corner.p3d:geometry
+ 2:22:26.143 Warning: No components in dz\structures\walls\wall_railing_endr.p3d:geometryView
+ 2:22:26.167 Warning: No components in dz\vehicles\wheeled\offroadhatchback\proxy\niva_interior_aban.p3d:geometry
+ 2:22:26.169 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine_aban.p3d:geometry
+ 2:22:26.169 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine_aban.p3d:geometryFire
+ 2:22:26.169 Warning: No components in dz\vehicles\wheeled\hatchback_02\proxy\hatchback_02_engine_aban.p3d:geometryView
+ 2:22:26.188 Warning: No components in dz\structures\signs\misc\sign_decal_gov1.p3d:geometry
+ 2:22:26.188 Warning: No components in dz\structures\furniture\various\dirtpile_small_house.p3d:geometry
+ 2:22:26.188 Warning: No components in dz\structures\furniture\various\dirtpile_small_house.p3d:geometryView
+ 2:22:26.195 PerfWarning: Way too much components (558) in dz\structures\industrial\misc\misc_scaffolding.p3d:geometryFire
+ 2:22:26.200 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_turn_10deg.p3d:geometry
+ 2:22:26.200 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_turn_5deg.p3d:geometry
+ 2:22:26.201 Warning: No components in dz\structures\signs\misc\sign_decal_govschool.p3d:geometry
+ 2:22:26.208 DamageSystem Warning: Selection doors8 doesn't exists in fire geometry for entity Land_HouseBlock_1F1
+ 2:22:26.210 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_tcross.p3d:geometry
+ 2:22:26.221 Warning: No components in dz\structures\military\improvised\mil_camonet_roof_east.p3d:geometryView
+ 2:22:26.230 Warning: No components in dz\structures\wrecks\vehicles\wreck_decal_big.p3d:geometry
+ 2:22:26.243 Warning: No components in dz\vehicles\wheeled\offroadhatchback\proxy\nivaengine_aban.p3d:geometry
+ 2:22:26.243 Warning: No components in dz\vehicles\wheeled\offroadhatchback\proxy\nivaengine_aban.p3d:geometryView
+ 2:22:26.267 Warning: No components in dz\structures\walls\wall_fen2_6_hole.p3d:geometryView
+ 2:22:26.310 Warning: No components in dz\structures\industrial\misc\misc_through_static.p3d:geometry
+ 2:22:26.322 Warning: No components in dz\plants\clutter\p_helianthus.p3d:geometry
+ 2:22:26.353 Warning: No components in dz\structures\roads\decals\decal_damage_medium2.p3d:geometry
+ 2:22:26.383 DamageSystem Warning: Selection doors7 doesn't exists in fire geometry for entity Land_Mil_Barracks3
+ 2:22:26.395 PerfWarning: Way too much components (709) in dz\structures\residential\firedep\city_firestation.p3d:geometryFire
+ 2:22:26.397 Warning: No components in dz\structures\signs\misc\sign_decal_pubru3.p3d:geometry
+ 2:22:26.406 Warning: No components in dz\structures\wrecks\vehicles\proxy\truck_01_aban_1_lod1parts2_fire.p3d:geometry
+ 2:22:26.419 Warning: No components in dz\structures\industrial\misc\lamp_rail.p3d:geometryView
+ 2:22:26.431 Warning: No components in dz\structures\industrial\misc\misc_timbers_log2.p3d:geometry
+ 2:22:26.431 Warning: No components in dz\structures\industrial\misc\misc_timbers_log3.p3d:geometry
+ 2:22:26.464 Warning: No components in dz\structures\signs\tourist\trailmap_youarehere.p3d:geometry
+ 2:22:26.471 Convex "component69" selection faces are less then 4 in dz\structures\residential\houseblocks\houseblock_2f1.p3d:geometryView
+ 2:22:26.471 Convex "component84" selection faces are less then 4 in dz\structures\residential\houseblocks\houseblock_2f1.p3d:geometryView
+ 2:22:26.476 DamageSystem Warning: Selection doors8 doesn't exists in fire geometry for entity Land_HouseBlock_2F1
+ 2:22:26.479 Warning: No components in dz\structures\roads\decals\decal_damage_small1.p3d:geometry
+ 2:22:26.487 PerfWarning: Way too much components (859) in dz\structures\residential\medical\village_healthcare.p3d:geometryFire
+ 2:22:26.511 PerfWarning: Way too much components (562) in dz\structures\residential\stores\city_store_withstairs.p3d:geometryFire
+ 2:22:26.529 Warning: No components in dz\structures\roads\decals\decal_damage_small2.p3d:geometry
+ 2:22:26.545 Warning: No components in dz\structures\roads\decals\decal_damage_medium1.p3d:geometry
+ 2:22:26.611 PerfWarning: Way too much components (742) in dz\structures\residential\police\village_policestation.p3d:geometryFire
+ 2:22:26.620 Fresnel k must be >0, given n=1,k=0
+ 2:22:26.777 Warning: No components in dz\structures\industrial\power\power_hv_line_turnl.p3d:geometry
+ 2:22:26.779 Warning: No components in dz\water\ponds\pond_big_38_01.p3d:geometry
+ 2:22:26.779 Warning: No components in dz\water\ponds\pond_big_38_02.p3d:geometry
+ 2:22:26.782 Warning: No components in dz\water\streambed\misc\stones_sand_group_3.p3d:geometryFire
+ 2:22:26.844 Warning: No components in dz\structures\specific\cemeteries\cemetery_tombstone10.p3d:geometryView
+ 2:22:26.844 Warning: No components in dz\structures\specific\cemeteries\cemetery_tombstone11.p3d:geometryView
+ 2:22:26.881 PerfWarning: Way too much components (1027) in dz\structures\residential\offices\office1.p3d:geometryFire
+ 2:22:26.882 Warning: No components in dz\structures\furniture\various\flagholder.p3d:geometryView
+ 2:22:26.882 Warning: No components in dz\structures\residential\offices\proxy\zarivky.p3d:geometry
+ 2:22:26.915 Warning: No components in dz\structures\walls\wall_railing_1_endr.p3d:geometryView
+ 2:22:26.915 Warning: No components in dz\structures\walls\wall_railing_1_slope.p3d:geometryView
+ 2:22:26.957 Warning: No components in dz\structures\industrial\farms\proxy\boxy_c.p3d:geometry
+ 2:22:26.957 Warning: No components in dz\structures\industrial\farms\proxy\boxy_c.p3d:geometryFire
+ 2:22:26.957 Warning: No components in dz\structures\industrial\farms\proxy\boxy_c.p3d:geometryView
+ 2:22:26.969 Warning: No components in dz\structures\signs\misc\sign_decal_pubru2.p3d:geometry
+ 2:22:26.980 Warning: No components in dz\structures\roads\sidewalks\sidewalk2_5m.p3d:geometry
+ 2:22:26.988 Warning: No components in dz\structures\industrial\power\power_hv_line.p3d:geometry
+ 2:22:27.13 PerfWarning: Way too much components (715) in dz\structures\industrial\houses\factory_lathes.p3d:geometryFire
+ 2:22:27.14 Warning: No components in dz\structures\roads\sidewalks\sidewalk1_turn_30deg.p3d:geometry
+ 2:22:27.26 Warning: No components in dz\structures\industrial\houses\proxy\housev2_03_int.p3d:geometry
+ 2:22:27.27 PerfWarning: Way too much components (633) in dz\structures\industrial\houses\proxy\housev2_03_int.p3d:geometryFire
+ 2:22:27.27 Warning: No components in dz\structures\industrial\houses\proxy\housev2_03_int.p3d:geometryView
+ 2:22:27.32 Warning: No components in dz\structures\furniture\various\debris_small_house.p3d:geometry
+ 2:22:27.32 Warning: No components in dz\structures\furniture\various\debris_small_house.p3d:geometryView
+ 2:22:27.72 Warning: No components in dz\structures\roads\decals\decal_concrete_panel.p3d:geometry
+ 2:22:27.85 Warning: No components in dz\structures\military\improvised\mil_camonet_big_nato.p3d:geometryView
+ 2:22:27.85 Warning: No components in dz\structures\military\improvised\mil_tent_big1_4.p3d:geometryFire
+ 2:22:27.85 Warning: No components in dz\structures\military\improvised\mil_tent_big1_4.p3d:geometryView
+ 2:22:27.88 Warning: No components in dz\structures\roads\panels\proxy\grass_runwaypanel_line1.p3d:geometry
+ 2:22:27.89 Warning: No components in dz\structures\roads\panels\proxy\grass_runwaypanel_line2.p3d:geometry
+ 2:22:27.89 Warning: No components in dz\structures\roads\panels\proxy\grass_runwaypanel_single2.p3d:geometry
+ 2:22:27.92 Warning: No components in dz\structures\ruins\rubble_dirtpile_small.p3d:geometry
+ 2:22:27.92 PerfWarning: Way too much components (660) in dz\structures\ruins\rubble_dirtpile_small.p3d:geometryFire
+ 2:22:27.109 Warning: No components in dz\structures\roads\panels\proxy\grass_runwaypanel_double2.p3d:geometry
+ 2:22:27.120 PerfWarning: Way too much components (660) in dz\structures\military\airfield\mil_airfield_hq.p3d:geometryFire
+ 2:22:27.139 Warning: No components in dz\structures\roads\panels\proxy\grass_runwaypanel_single1.p3d:geometry
+ 2:22:27.148 DamageSystem Warning: Selection doors3 doesn't exists in fire geometry for entity Land_Mil_Barracks1
+ 2:22:27.152 Warning: No components in dz\structures\roads\panels\proxy\grass_runwaypanel_double1.p3d:geometry
+ 2:22:27.220 Warning: No components in dz\water\ponds\pond_small_06.p3d:geometry
+ 2:22:27.227 Warning: No components in dz\structures\military\improvised\mil_camonet_side_nato.p3d:geometryView
+ 2:22:27.275 Warning: No components in dz\structures\signs\misc\sign_decal_pubru1.p3d:geometry
+ 2:22:27.288 Warning: No components in dz\structures\residential\misc\misc_tree_protector.p3d:geometryFire
+ 2:22:27.303 Warning: No components in dz\structures\military\improvised\mil_tent_big2_1.p3d:geometryFire
+ 2:22:27.303 Warning: No components in dz\structures\military\improvised\mil_tent_big2_1.p3d:geometryView
+ 2:22:27.304 Warning: No components in dz\structures\military\improvised\proxy\tent_big2.p3d:geometry
+ 2:22:27.343 Warning: No components in dz\structures\residential\misc\misc_football_line_corner.p3d:geometry
+ 2:22:27.349 Warning: No components in dz\structures\industrial\misc\misc_timbers_log1.p3d:geometry
+ 2:22:27.349 Warning: No components in dz\structures\industrial\misc\misc_timbers_log4.p3d:geometry
+ 2:22:27.357 PerfWarning: Way too much components (560) in dz\structures\industrial\farms\barn_wood1.p3d:geometryFire
+ 2:22:27.371 Warning: No components in dz\structures\industrial\power\power_transformerstation_cables.p3d:geometry
+ 2:22:27.378 DamageSystem Warning: Selection doors6 doesn't exists in fire geometry for entity Land_HouseBlock_2F9
+ 2:22:27.493 Warning Message: unable to load doorMetalValveOpenABit from CfgActionSounds
+ 2:22:27.500 PerfWarning: Way too much components (912) in dz\structures\military\tisy\tisy_hq.p3d:geometryFire
+ 2:22:27.504 Warning: No components in dz\structures\military\misc\misc_antenna.p3d:geometryView
+ 2:22:27.518 Warning: No components in dz\structures\furniture\prison\prison_toilet.p3d:geometry
+ 2:22:27.519 Warning: No components in dz\structures\furniture\prison\prison_sink.p3d:geometry
+ 2:22:27.629 PerfWarning: Way too much components (1200) in dz\structures\residential\offices\office2.p3d:geometryFire
+ 2:22:27.634 PerfWarning: Way too much components (506) in dz\structures\residential\offices\proxy\a_office02_metalbars.p3d:geometryFire
+ 2:22:27.652 PerfWarning: Way too much components (677) in dz\structures\residential\medical\city_hospital.p3d:geometryFire
+ 2:22:27.654 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductorbottom\lightningconductorbottom.p3d:geometryView
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductorcorner\lightningconductorcorner.p3d:geometryFire
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductorcorner\lightningconductorcorner.p3d:geometryView
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductorconnection\lightningconductorconnection.p3d:geometryFire
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductorconnection\lightningconductorconnection.p3d:geometryView
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddleshort.p3d:geometryFire
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddleshort.p3d:geometryView
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d:geometryFire
+ 2:22:27.655 Warning: No components in dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d:geometryView
+ 2:22:27.664 Warning: No components in dz\structures\signs\misc\sign_decal_pubcz1.p3d:geometry
+ 2:22:27.723 Warning: No components in dz\water\ponds\pond_small_20.p3d:geometry
+ 2:22:27.752 Warning: No components in dz\water\ponds\pond_small_02.p3d:geometry
+ 2:22:27.782 Warning: No components in dz\structures\wrecks\vehicles\wreck_trailer_closed.p3d:geometryView
+ 2:22:27.833 PerfWarning: Way too much components (1212) in dz\structures\residential\offices\office_municipal2.p3d:geometryFire
+ 2:22:20.242 [Inputs] Loading inputs default "bin/constants.xml"
+ 2:22:20.249 [Inputs] Loading inputs default "bin/specific.xml"
+ 2:22:20.250 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 2:22:20.250 [Inputs] Loading inputs default "partyme/scripts/partyme_inputs.xml"
+ 2:22:20.250 [Inputs] Loading inputs cfg "K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\Users\PhantomByte\phant.core.xml"
+ 2:22:20.253 [Inputs] Exporting inputs cfg "K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\Users\PhantomByte\phant.core.xml"
+ 2:22:20.840 !!! [Inputs] Attempt to register "PMHideShowTrackers" input twice
+ 2:22:27.835 Warning: No components in dz\structures\proxy_buildingparts\ladders\ladder_medium_proxy.p3d:geometry
+ 2:22:27.835 Warning: No components in dz\structures\proxy_buildingparts\ladders\ladder_long_proxy.p3d:geometry
+ 2:22:27.836 Warning: No components in dz\structures\proxy_buildingparts\ladders\ladder_top_proxy.p3d:geometry
+ 2:22:27.839 Warning: No components in dz\structures\residential\offices\proxy\municipaloffice2_details_proxy.p3d:geometry
+ 2:22:27.840 PerfWarning: Way too much components (1024) in dz\structures\residential\offices\proxy\municipaloffice2_details_proxy.p3d:geometryFire
+ 2:22:27.840 Warning: No components in dz\structures\residential\offices\proxy\municipaloffice2_details_proxy.p3d:geometryView
+ 2:22:27.842 Warning: No components in dz\structures\residential\offices\proxy\municipaloffice2_int.p3d:geometry
+ 2:22:27.843 PerfWarning: Way too much components (707) in dz\structures\residential\offices\proxy\municipaloffice2_int.p3d:geometryFire
+ 2:22:27.843 Warning: No components in dz\structures\residential\offices\proxy\municipaloffice2_int.p3d:geometryView
+ 2:22:27.844 DamageSystem Warning: Selection doors7 doesn't exists in fire geometry for entity Land_HouseBlock_3F2
+ 2:22:27.847 DamageSystem Warning: Selection doors7 doesn't exists in fire geometry for entity Land_HouseBlock_5F
+ 2:22:27.913 Fresnel n must be >0, given n=0,k=0.01
+ 2:22:32.540 SCRIPT    (E):    -- Stack trace --
+
+ 2:22:32.540 SCRIPT    (E):    GetPlugin() scripts/4_World/plugins\pluginmanager.c : 330
+
+ 2:22:32.542 SCRIPT    (E):    OnInit() scripts/4_World/plugins\pluginbase\pluginitemdiagnostic.c : 104
+
+ 2:22:32.542 SCRIPT    (E):    PluginsInit() scripts/4_World/plugins\pluginmanager.c : 126
+
+ 2:22:32.542 SCRIPT    (E):    PluginManagerInit() scripts/4_World/plugins\pluginmanager.c : 293
+
+ 2:22:32.542 SCRIPT    (E):    MissionBase@194#1() scripts/5_Mission/mission\missionbase.c : 22
+
+ 2:22:32.542 SCRIPT    (E):    CreateMission() scripts/5_Mission/somemission.c : 9
+
+ 2:22:32.542 SCRIPT    (E):    -----------------
+
+ 2:22:32.553 [Script] scripts/3_Game/undergroundarealoader.c:85 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] :: file not found in MISSION folder, your path is $mission:cfgundergroundtriggers.json Attempting DATA folder
+ 2:22:32.553 [Script] scripts/5_Mission/mission\missionserver.c:91 | OnMissionStart | [WARNING] :: [EffectAreaLoader CreateZones] :: No contaminated area file found in MISSION folder, your path is $mission:cfgeffectarea.json Attempting DATA folder
+ 2:22:32.558 Warning Message: Cannot open object bmp.p3d
+ 2:22:32.558 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:32.565 PerfWarning: Way too much components (1170) in dz\structures\wrecks\ships\ship_big_frontb.p3d:geometryFire
+ 2:22:32.570 PerfWarning: Way too much components (1253) in dz\structures\wrecks\ships\proxy\beams_front_b.p3d:geometryFire
+ 2:22:32.573 PerfWarning: Way too much components (682) in dz\structures\wrecks\ships\proxy\covers_front_b.p3d:geometryFire
+ 2:22:32.578 PerfWarning: Way too much components (761) in dz\structures\wrecks\ships\ship_big_backa.p3d:geometryFire
+ 2:22:32.582 PerfWarning: Way too much components (749) in dz\structures\wrecks\ships\proxy\beams_back_a.p3d:geometryFire
+ 2:22:32.583 Warning: No components in dz\structures\wrecks\ships\proxy\covers_back_a.p3d:geometry
+ 2:22:32.598 PerfWarning: Way too much components (832) in dz\structures\wrecks\ships\ship_big_fronta.p3d:geometryFire
+ 2:22:32.601 Warning: No components in dz\structures\wrecks\ships\proxy\abandoned_ship_lifebuoy.p3d:geometry
+ 2:22:32.605 PerfWarning: Way too much components (688) in dz\structures\wrecks\ships\proxy\beams_front_a.p3d:geometryFire
+ 2:22:32.607 String "STR_DN_UNKNOWN" not found (not in localization table)
+ 2:22:32.619 PerfWarning: Way too much components (1078) in dz\structures\wrecks\ships\ship_big_backb.p3d:geometryFire
+ 2:22:32.622 PerfWarning: Way too much components (778) in dz\structures\wrecks\ships\proxy\beams_back_b.p3d:geometryFire
+ 2:22:32.629 PerfWarning: Way too much compo

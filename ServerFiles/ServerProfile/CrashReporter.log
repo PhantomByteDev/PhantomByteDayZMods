@@ -1,0 +1,32 @@
+02:34:57:932 CRASH REPORT : Crash reporter started!
+02:34:57:935 CRASH REPORT : Sending analytical data.
+02:34:57:935 CRASH REPORT : Sending Request...
+02:34:58:161 CRASH REPORT : Crash Analytics: OK
+02:35:01:356 CRASH REPORT : User canceled Crash Report!
+02:57:11:258 CRASH REPORT : Crash reporter started!
+02:57:11:263 CRASH REPORT : Sending analytical data.
+02:57:11:263 CRASH REPORT : Sending Request...
+02:57:11:452 CRASH REPORT : Crash Analytics: OK
+02:57:15:772 CRASH REPORT : User canceled Crash Report!
+10:15:04:463 CRASH REPORT : Crash reporter started!
+10:15:04:463 CRASH REPORT : Started without dialog window! Automatically send Report.
+10:15:04:469 CRASH REPORT : Sending analytical data.
+10:15:04:469 CRASH REPORT : Sending Request...
+10:15:04:713 CRASH REPORT : Crash Analytics: OK
+10:15:04:767 CRASH REPORT : Preparing Report
+10:15:04:767 CRASH REPORT : Memory dump Size: 191 kb
+10:15:04:767 CRASH REPORT : Logs Size: 42 kb
+10:15:04:767 CRASH REPORT : Sending Crash Report!
+10:15:04:767 CRASH REPORT : Sending Request...
+10:15:19:000 CRASH REPORT : Error: Request failed: TIMEOUT
+10:15:19:000 CRASH REPORT : Repeating Request... [1/5]
+10:15:19:034 CRASH REPORT : Error: Request failed: 429
+10:15:34:043 CRASH REPORT : Repeating Request... [2/5]
+10:15:49:000 CRASH REPORT : Error: Request failed: TIMEOUT
+10:15:49:000 CRASH REPORT : Repeating Request... [3/5]
+10:16:04:000 CRASH REPORT : Error: Request failed: TIMEOUT
+10:16:04:000 CRASH REPORT : Repeating Request... [4/5]
+10:16:04:035 CRASH REPORT : Error: Request failed: 429
+10:16:19:063 CRASH REPORT : Repeating Request... [5/5]
+10:16:19:074 CRASH REPORT : Report Result: FAILED to send automatic Crash Report. You can report it on Feedback Tracker: https://feedback.bistudio.com/
+10:16:19:077 CRASH REPORT : Crash Reporter Finished!

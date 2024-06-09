@@ -1,0 +1,18 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\crash_2024-06-07_09-57-09.log started at 07.06. 10:02:39
+
+
+
+------------------------------------
+DESKTOP-CP4RD38, 07.06 2024 10:02:39
+NullPointerError
+Class:      'COTModule'
+Function: 'Call'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\classes\cotmodule.c:241
+JM/CF/Scripts/3_Game/communityframework\inputbindings\cf_inputbindings.c:123
+JM/COT/Scripts/3_Game/communityonlinetools\inputbindings\cf_inputbindings.c:13
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:29
+
+Runtime mode
+CLI params: mod D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;K:\DayZ\ModBuilds\@PBMilitaryRetextures; connect 127.0.0.1 port 2302 profiles K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile name PhantomByte newErrorsAreWarnings 1 

@@ -1,0 +1,16 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe /min "-mod=D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;K:\DayZ\ModBuilds\@PBRetextures;" "-connect=127.0.0.1" "-port=2302" "-profiles=K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile" "-name=PhantomByte" "-NoBattlEye" "-newErrorsAreWarnings=1"
+=====================================================================
+Exe timestamp: 2024/05/27 18:52:21
+Current time:  2024/06/07 11:01:51
+Version 1.25.158199
+=====================================================================
+
+11:01:51.927 [Inputs] Loading inputs default "bin/constants.xml"
+11:01:51.931 [Inputs] Loading inputs default "bin/specific.xml"
+11:01:51.932 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+11:01:51.932 [Inputs] Loading inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\PhantomByte\phant.core.xml"
+11:01:51.934 [Inputs] Exporting inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\PhantomByte\phant.core.xml"
+11:02:59.802 [ErrorModuleHandler] :: Error thrown: 0x000400F0 (Game restart required)
+11:03:05.137  --- Termination successfully completed --- 

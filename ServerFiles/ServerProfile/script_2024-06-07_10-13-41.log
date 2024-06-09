@@ -1,0 +1,25 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\script_2024-06-07_10-13-41.log started at 07.06. 10:13:43
+
+SCRIPT       : Registered 334 temporary action enum(s), UAN==334
+SCRIPT    (W): @"scripts/3_Game/gameplay.c,911": Missing script declaration for method 'MenuData.GetLastSteamQueryPort'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : Creating Mission: dz\Worlds\ChernarusPlus\data\scenes\intro.ChernarusPlus\mission.c
+SCRIPT       : string s =    'Module PluginConfigDebugProfile is not Registred in PluginManager.c!'
+SCRIPT    (E):    -- Stack trace --
+SCRIPT    (E):    GetPlugin() scripts/4_World/plugins\pluginmanager.c : 330
+SCRIPT    (E):    OnInit() scripts/4_World/plugins\pluginbase\pluginitemdiagnostic.c : 104
+SCRIPT    (E):    PluginsInit() scripts/4_World/plugins\pluginmanager.c : 126
+SCRIPT    (E):    PluginManagerInit() scripts/4_World/plugins\pluginmanager.c : 293
+SCRIPT    (E):    MissionBase@194#1() scripts/5_Mission/mission\missionbase.c : 22
+SCRIPT    (E):    CreateMission() scripts/5_Mission/somemission.c : 25
+SCRIPT    (E):    -----------------
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickAxe_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickSaw_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickKnife_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "SplitStickMachete_SoundSet".
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_ext_Soundset".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Impact_default_foliage_ext_Soundset".
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ~DayZGame()

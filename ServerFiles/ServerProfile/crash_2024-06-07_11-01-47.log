@@ -1,0 +1,43 @@
+---------------------------------------------
+Log K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\crash_2024-06-07_11-01-47.log started at 07.06. 11:03:23
+
+
+
+------------------------------------
+DESKTOP-CP4RD38, 07.06 2024 11:03:23
+Unhandled exception
+
+Program: D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: SEH exception thrown. Exception code: 0xc0000374 at 0x7ffdff3dc769
+
+[RtlIsZeroMemory]: ??? addr:0x7ffdff3dc769
+[RtlIsZeroMemory]: ??? addr:0x7ffdff3dc733
+[_misaligned_access]: ??? addr:0x7ffdff3e57ca
+[_misaligned_access]: ??? addr:0x7ffdff3e5aaa
+[_misaligned_access]: ??? addr:0x7ffdff3f1aa5
+[RtlGetCurrentServiceSessionId]: ??? addr:0x7ffdff30becc
+[RtlFreeHeap]: ??? addr:0x7ffdff30ab11
+[free_base]: ??? addr:0x7ffdfcc9364b
+SymGetSymFromAddr:487, addr:0x7ff74afb1122
+SymGetSymFromAddr:487, addr:0x7ff74b1a0a07
+SymGetSymFromAddr:487, addr:0x7ff74b3cebf4
+SymGetSymFromAddr:487, addr:0x7ff74b21f8c8
+SymGetSymFromAddr:487, addr:0x7ff74b19e963
+SymGetSymFromAddr:487, addr:0x7ff74b216095
+SymGetSymFromAddr:487, addr:0x7ff74b44cadd
+[CDPCreateServer]: ??? addr:0x7ff74b89f7fb
+[CDPCreateServer]: ??? addr:0x7ff74b8a15ab
+SymGetSymFromAddr:487, addr:0x7ff74b3106dd
+[CDPCreateServer]: ??? addr:0x7ff74b8a1b44
+SymGetSymFromAddr:487, addr:0x7ff74b31b7dd
+[CDPCreateServer]: ??? addr:0x7ff74b8a958c
+SymGetSymFromAddr:487, addr:0x7ff74b430c3b
+[CDPCreateServer]: ??? addr:0x7ff74b9f99e2
+[BaseThreadInitThunk]: ??? addr:0x7ffdfd01257d
+[RtlUserThreadStart]: ??? addr:0x7ffdff32aa48
+[RtlUserThreadStart]: ??? addr:0x7ffdff32aa48
+
+
+
+Runtime mode
+CLI params: mod D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;K:\DayZ\ModBuilds\@PBRetextures; config K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\serverDZ.cfg profiles K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile doLogs  adminlog  NoBattlEye  newErrorsAreWarnings 1 

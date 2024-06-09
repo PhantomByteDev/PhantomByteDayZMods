@@ -1,0 +1,16 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe
+== D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe /min "-mod=D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;K:\DayZ\ModBuilds\@PBMilitaryRetextures;" "-connect=127.0.0.1" "-port=2302" "-profiles=K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile" "-name=PhantomByte" "-newErrorsAreWarnings=1"
+=====================================================================
+Exe timestamp: 2024/05/27 18:52:21
+Current time:  2024/06/07 10:04:37
+Version 1.25.158199
+=====================================================================
+
+10:04:37.638 [Inputs] Loading inputs default "bin/constants.xml"
+10:04:37.658 [Inputs] Loading inputs default "bin/specific.xml"
+10:04:37.659 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+10:04:37.660 [Inputs] Loading inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\PhantomByte\phant.core.xml"
+10:04:37.665 [Inputs] Exporting inputs cfg "K:\DayZ\Projects\PhantomByteDayZMods\ServerFiles\ServerProfile\Users\PhantomByte\phant.core.xml"
+10:05:59.618 [ErrorModuleHandler] :: Error thrown: 0x000400F0 (Game restart required)
+10:06:10.105  --- Termination successfully completed --- 

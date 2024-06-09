@@ -1,0 +1,47 @@
+---------------------------------------------
+Log K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile\crash_2024-06-01_02-55-54.log started at 01.06. 02:57:10
+
+
+
+------------------------------------
+DESKTOP-CP4RD38, 01.06 2024 02:57:10
+Unhandled exception
+
+Program: D:\SteamLibrary\steamapps\common\DayZ\DayZ_x64.exe
+Reason: Access violation. Illegal write by 0x277c03ba120 at 0x277c03ba120
+
+
+Class:      'DayZGame'
+Function: 'OnUpdate'
+Stack trace:
+scripts/3_Game/dayzgame.c:2838
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+
+SymGetSymFromAddr:126, addr:0x277c03ba120
+SymGetSymFromAddr:487, addr:0x7ff744cb6a38
+[CDPCreateClient]: ??? addr:0x7ff745220a45
+SymGetSymFromAddr:487, addr:0x7ff744b3c781
+SymGetSymFromAddr:487, addr:0x7ff744b3cc35
+SymGetSymFromAddr:487, addr:0x7ff744b3d432
+SymGetSymFromAddr:487, addr:0x7ff744b29fa4
+SymGetSymFromAddr:487, addr:0x7ff744b27329
+SymGetSymFromAddr:487, addr:0x7ff744b2bda7
+SymGetSymFromAddr:487, addr:0x7ff744b27734
+SymGetSymFromAddr:487, addr:0x7ff744d9c33a
+SymGetSymFromAddr:487, addr:0x7ff744d7f6ae
+[CDPCreateClient]: ??? addr:0x7ff745095ff3
+[CDPCreateClient]: ??? addr:0x7ff74521df5e
+[CDPCreateClient]: ??? addr:0x7ff745214c45
+[CDPCreateClient]: ??? addr:0x7ff74521d197
+SymGetSymFromAddr:487, addr:0x7ff744c48df8
+[CDPCreateClient]: ??? addr:0x7ff74521f18c
+SymGetSymFromAddr:487, addr:0x7ff744d77983
+[CDPCreateClient]: ??? addr:0x7ff74536f5e2
+[BaseThreadInitThunk]: ??? addr:0x7ffdfd01257d
+[RtlUserThreadStart]: ??? addr:0x7ffdff32aa48
+[RtlUserThreadStart]: ??? addr:0x7ffdff32aa48
+
+
+
+Runtime mode
+CLI params: mod D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@CF;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Community-Online-Tools;D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@PartyMe;K:\DayZ\ModBuilds\@FinalFrontierServerPack; connect 127.0.0.1 port 2302 profiles K:\DayZ\Projects\FinalFrontier\Git\FinalFrontierServerPack\ServerProfile name PhantomByte newErrorsAreWarnings 1 
